@@ -1,0 +1,22 @@
+jquery.min.js:1          Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR
+
+
+<?php echo base_url("public/app/js1/mediaelement-migrate.min.js"); ?>
+
+
+<?php echo my_base_url('insugroup-select-service-program') ?>
+
+
+
+http://getinsured.live/wp-content/uploads/2016/05/image-9.jpg
+
+
+
+<?php echo base_url("public/images/bg-quote.jpg"); ?>
+
+getinsured
+
+logo1.png
+
+
+http://getinsured.live/wp-content/uploads/2016/05/image-11.jpg
