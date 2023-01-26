@@ -10,6 +10,16 @@ if ( ! function_exists('lcfs_data'))
     }   
 }
 
+if ( ! function_exists('lcfs_info_data'))
+{
+    function lcfs_info_data($var = '')
+    {
+        $path = base_url('public/json/info.json');
+        $json = json_decode(file_get_contents($path), true);
+        return $json[$var];
+    }
+}
+
 if ( ! function_exists('lcfs_about_data'))
 {
     function lcfs_about_data($var = '')

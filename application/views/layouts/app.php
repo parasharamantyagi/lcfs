@@ -437,8 +437,8 @@
                                         class="sc_layouts_iconed_text hide_on_mobile"><span
                                             class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-location"></span><span
                                             class="sc_layouts_item_details sc_layouts_iconed_text_details"><span
-                                                class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1">Parvinder
-                                                Chahal, Financial Advisor</span></span>
+                                                class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1">
+                                                <?php echo lcfs_info_data('author'); ?></span></span>
                                         <!-- /.sc_layouts_iconed_text_details -->
                                     </div><!-- /.sc_layouts_iconed_text -->
                                 </div>
@@ -447,8 +447,7 @@
                                         class="sc_layouts_iconed_text hide_on_mobile"><span
                                             class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-clock-light"></span><span
                                             class="sc_layouts_item_details sc_layouts_iconed_text_details"><span
-                                                class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1">Mon -
-                                                Fri : 08:00 - 21:00</span></span>
+                                                class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1"><?php echo lcfs_info_data('timing'); ?></span></span>
                                         <!-- /.sc_layouts_iconed_text_details -->
                                     </div><!-- /.sc_layouts_iconed_text -->
                                 </div>
@@ -457,7 +456,7 @@
                                         class="sc_layouts_iconed_text hide_on_mobile"><a href="tel:+88002563587"
                                             class="sc_layouts_item_link sc_layouts_iconed_text_link"><span
                                                 class="sc_layouts_item_details sc_layouts_iconed_text_details"><span
-                                                    class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1">587-438-4400</span></span>
+                                                    class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1"><?php echo lcfs_info_data('contact_no'); ?></span></span>
                                             <!-- /.sc_layouts_iconed_text_details --></a></div>
                                     <!-- /.sc_layouts_iconed_text -->
                                 </div>
@@ -468,24 +467,24 @@
                         class="wpb_column vc_column_container vc_col-sm-4 sc_layouts_column sc_layouts_column_align_right sc_layouts_column_icons_position_left">
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
-                                <div class="sc_layouts_item">
+                                <!-- <div class="sc_layouts_item">
                                     <div id="sc_layouts_login_875593547" class="sc_layouts_login">
-                                        <!-- @if(Auth::check())  -->
+                                        @if(Auth::check()) 
                                         <a href="<?php echo base_url('log-out'); ?>"
                                             class="trx_addons_popup_links trx_addons_login_links"><span
                                                 class="sc_layouts_item_icon sc_layouts_login_icon trx_addons_icon-user-alt"></span><span
                                                 class="sc_layouts_item_details sc_layouts_login_details">Log-out</span></a>
-                                        <!-- @else
+                                        @else
                                     <a href="<?php echo base_url('login'); ?>"
                                             class="trx_addons_popup_links trx_addons_login_links"><span
                                                 class="sc_layouts_item_icon sc_layouts_login_icon trx_addons_icon-user-alt"></span><span
                                                 class="sc_layouts_item_details sc_layouts_login_details">Login or
                                                 Register</span></a>       
-                                    @endif -->
-                                    </div><!-- /.sc_layouts_login -->
+                                    @endif
+                                    </div>
 
-                                </div>
-                                <div class="sc_layouts_item">
+                                </div> -->
+                                <!-- <div class="sc_layouts_item">
                                     <div id="sc_layouts_cart_131380575" class="sc_layouts_cart">
                                         <span
                                             class="sc_layouts_item_icon sc_layouts_cart_icon trx_addons_icon-basket"></span>
@@ -497,7 +496,7 @@
                                                 -
                                                 <span class="sc_layouts_cart_summa">&#36;0.00</span>
                                             </span>
-                                        </span><!-- /.sc_layouts_cart_details -->
+                                        </span>
                                         <span class="sc_layouts_cart_items_short">0</span>
                                         <div class="sc_layouts_cart_widget widget_area">
                                             <span class="sc_layouts_cart_widget_close trx_addons_icon-cancel"></span>
@@ -506,15 +505,15 @@
                                                     <div class="widget_shopping_cart_content"></div>
                                                 </div>
                                             </div>
-                                        </div><!-- /.sc_layouts_cart_widget -->
-                                    </div><!-- /.sc_layouts_cart -->
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="sc_layouts_item sc_layouts_hide_on_mobile">
                                     <div id="sc_layouts_iconed_text_439013750"
                                         class="sc_layouts_iconed_text hide_on_mobile open_sidebar"><span
                                             class="sc_layouts_item_icon sc_layouts_iconed_text_icon icon-menu-1"></span>
-                                    </div><!-- /.sc_layouts_iconed_text -->
-                                </div>
+                                    </div><
+                                </div> -->
                             </div>
                         </div>
                     </div>
