@@ -30,6 +30,16 @@ if ( ! function_exists('lcfs_about_data'))
     }
 }
 
+if ( ! function_exists('lcfs_super_visa_data'))
+{
+    function lcfs_super_visa_data($var = '')
+    {
+        $path = base_url('public/json/super_visa.json');
+        $json = json_decode(file_get_contents($path), true);
+        return $json[$var];
+    }
+}
+
 if ( ! function_exists('lcfs_contacts_data'))
 {
     function lcfs_contacts_data($var = '')

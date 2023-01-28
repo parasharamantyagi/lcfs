@@ -29,11 +29,10 @@
                             <div class="sc_services sc_services_default" data-slides-per-view="3"
                                 data-slides-min-width="200">
                                 <h2 class="sc_item_title sc_services_title sc_align_center sc_item_title_style_default">
-                                    Your Financial Advisor</h2>
-                                <div class="sc_item_descr sc_services_descr sc_align_center">Like any combo, your
-                                    financial planning and insurance policies belong together. Whatever your insurance
-                                    coverage needs are, we're here to help life go right. Get a quote or <a
-                                        href="#">talk to an agent</a>.</div>
+                                    <?php echo lcfs_about_data('your_financial_advisor')['heading'] ?></h2>
+                                <div class="sc_item_descr sc_services_descr sc_align_center">
+                                    <?php echo lcfs_about_data('your_financial_advisor')['contant'] ?><a href="#">
+                                        <?php echo lcfs_about_data('your_financial_advisor')['link'] ?></a>.</div>
                                 <div
                                     class="sc_services_columns sc_item_columns sc_item_columns_3 trx_addons_columns_wrap columns_padding_bottom">
                                     <div class="trx_addons_column-1_3">
@@ -52,17 +51,13 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/what-is-life-insurance/">What
-                                                            is life insurance?</a></h4>
+                                                            href="http://getinsured.live/index.php/services/what-is-life-insurance/"><?php echo lcfs_about_data('what_is_life_insurance')['heading'] ?></a>
+                                                    </h4>
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>Life insurance is a contract between insured and policy owner to
-                                                        pay an agreed upon amount of money upon death or disability of
-                                                        the insured person.</p>
+                                                    <p><?php echo lcfs_about_data('what_is_life_insurance')['contant'] ?>
+                                                    </p>
                                                 </div>
-                                                <div class="sc_services_item_link sc_item_link"><a
-                                                        href="http://getinsured.live/index.php/services/what-is-life-insurance/"
-                                                        class="sc_button_link">more </a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -84,18 +79,13 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/company-of-professionals/">Company
-                                                            of Professionals</a></h4>
+                                                            href="http://getinsured.live/index.php/services/company-of-professionals/"><?php echo lcfs_about_data('company_of_professionals')['heading'] ?></a>
+                                                    </h4>
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>We are a group of financial advisors working in a team, each with
-                                                        expertise in one or many of the areas including Super Visa
-                                                        Insurance, Travel Medical Insurance, Life Insurance, Critical
-                                                        Illness and Disability Insurance.</p>
+                                                    <p><?php echo lcfs_about_data('company_of_professionals')['contant'] ?>
+                                                    </p>
                                                 </div>
-                                                <div class="sc_services_item_link sc_item_link"><a
-                                                        href="http://getinsured.live/index.php/services/company-of-professionals/"
-                                                        class="sc_button_link">more </a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -115,16 +105,16 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/we-love-our-clients/">We
-                                                            Love Our Clients</a></h4>
+                                                            href="http://getinsured.live/index.php/services/we-love-our-clients/"><?php echo lcfs_about_data('We_love_our_clients')['heading'] ?></a>
+                                                    </h4>
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>We are dedicated to providing exceptional customer service to our
-                                                        clients and always keeping their best interest in mind.</p>
+                                                    <p><?php echo lcfs_about_data('We_love_our_clients')['contant'] ?>
+                                                    </p>
                                                 </div>
-                                                <div class="sc_services_item_link sc_item_link"><a
+                                                <!-- <div class="sc_services_item_link sc_item_link"><a
                                                         href="http://getinsured.live/index.php/services/we-love-our-clients/"
-                                                        class="sc_button_link">more </a></div>
+                                                        class="sc_button_link">more </a></div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -162,10 +152,8 @@
                                     class="vc_empty_space_inner"></span></div>
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                    <h2>What We Offer</h2>
-                                    <p>We have a wide variety of insurance providers, be it Super Visa Insurance, Life
-                                        Insurance, Disability Insurance, Critical Illness Insurance or Health
-                                        Insurance..</p>
+                                    <h2><?php echo lcfs_super_visa_data('what_we_offer')['heading'] ?></h2>
+                                    <p><?php echo lcfs_super_visa_data('what_we_offer')['contant'] ?></p>
 
                                 </div>
                             </div>
@@ -184,17 +172,14 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/enhanced-protection/">Enhanced
-                                                            protection</a></h4>
+                                                            href="http://getinsured.live/index.php/services/enhanced-protection/"><?php echo lcfs_super_visa_data('enhance_protection')['heading'] ?></a>
+                                                    </h4>
 
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>Aliquam erat volutpat. In sed arcu non magna venenatis porta sed
-                                                        sodales metus. Sed in imperdiet.</p>
+                                                    <p><?php echo lcfs_super_visa_data('enhance_protection')['contant'] ?>
+                                                    </p>
                                                 </div>
-                                                <div class="sc_services_item_button sc_item_button"><a
-                                                        href="http://getinsured.live/index.php/services/enhanced-protection/"
-                                                        class="sc_button sc_button_simple">Learn more</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -207,17 +192,13 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/explosionimplosion/">Explosion
-                                                            / Implosion</a></h4>
+                                                            href="http://getinsured.live/index.php/services/explosionimplosion/">
+                                                            <?php echo lcfs_super_visa_data('explosion_implosion')['heading'] ?></a></h4>
 
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>Aliquam erat volutpat. In sed arcu non magna venenatis porta sed
-                                                        sodales metus. Sed in imperdiet.</p>
+                                                    <p><?php echo lcfs_super_visa_data('explosion_implosion')['contant'] ?></p>
                                                 </div>
-                                                <div class="sc_services_item_button sc_item_button"><a
-                                                        href="http://getinsured.live/index.php/services/explosionimplosion/"
-                                                        class="sc_button sc_button_simple">Learn more</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -230,17 +211,12 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/outpatient-care/">Outpatient
-                                                            care</a></h4>
+                                                            href="http://getinsured.live/index.php/services/outpatient-care/"><?php echo lcfs_super_visa_data('outpatient_care')['heading'] ?></a></h4>
 
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>Aliquam erat volutpat. In sed arcu non magna venenatis porta sed
-                                                        sodales metus. Sed in imperdiet.</p>
+                                                    <p><?php echo lcfs_super_visa_data('outpatient_care')['contant'] ?></p>
                                                 </div>
-                                                <div class="sc_services_item_button sc_item_button"><a
-                                                        href="http://getinsured.live/index.php/services/outpatient-care/"
-                                                        class="sc_button sc_button_simple">Learn more</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -253,13 +229,12 @@
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/comprehensive/">Comprehensive</a>
+                                                            href="http://getinsured.live/index.php/services/comprehensive/"><?php echo lcfs_super_visa_data('comprehensive')['heading'] ?></a>
                                                     </h4>
 
                                                 </div>
                                                 <div class="sc_services_item_content">
-                                                    <p>Aliquam erat volutpat. In sed arcu non magna venenatis porta sed
-                                                        sodales metus. Sed in imperdiet.</p>
+                                                    <p><?php echo lcfs_super_visa_data('comprehensive')['contant'] ?></p>
                                                 </div>
                                                 <div class="sc_services_item_button sc_item_button"><a
                                                         href="http://getinsured.live/index.php/services/comprehensive/"
@@ -289,239 +264,16 @@
                     class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-xs-12 sc_layouts_column_icons_position_left">
                     <div class="vc_column-inner">
                         <div class="wpb_wrapper">
-                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                <div
-                                    class="wpb_column vc_column_container vc_col-sm-1 vc_hidden-lg vc_hidden-md vc_hidden-xs sc_layouts_column_icons_position_left">
-                                    <div class="vc_column-inner">
-                                        <div class="wpb_wrapper"></div>
-                                    </div>
-                                </div>
-                                <div
-                                    class="wpb_column vc_column_container vc_col-sm-10 vc_col-lg-12 vc_col-md-12 vc_col-xs-12 sc_layouts_column_icons_position_left">
-                                    <div class="vc_column-inner">
-                                        <div class="wpb_wrapper">
-                                            <div class="sc_team sc_team_featured" data-slides-per-view="2"
-                                                data-slides-min-width="150">
-                                                <div
-                                                    class="sc_team_columns sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
-                                                    <div class="trx_addons_column-1_2">
-                                                        <div class="sc_team_item">
-                                                            <div
-                                                                class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-                                                                <a href="http://getinsured.live/index.php/team/lara-garrison/"
-                                                                    aria-hidden="true"><img width="370" height="370"
-                                                                        src="http://getinsured.live/wp-content/uploads/2016/10/book-1-370x370.jpg"
-                                                                        class="attachment-trx_addons-thumb-avatar size-trx_addons-thumb-avatar wp-post-image"
-                                                                        alt="Navjot" loading="lazy"
-                                                                        srcset="http://getinsured.live/wp-content/uploads/2016/10/book-1-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/10/book-1-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/10/book-1-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/10/book-1-90x90.jpg 90w"
-                                                                        sizes="(max-width: 370px) 100vw, 370px" /></a>
-                                                                <div class="trx_addons_hover_content">
-                                                                    <div
-                                                                        class="sc_team_item_subtitle trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/lara-garrison/">Life
-                                                                            insurance agent</a></div>
-                                                                    <h4
-                                                                        class="sc_team_item_title trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/lara-garrison/">Navjot</a>
-                                                                    </h4>
-                                                                    <div
-                                                                        class="sc_team_item_socials trx_addons_hover_info">
-                                                                        <span class="social_item"><a
-                                                                                href="https://twitter.com/axiom_themes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_twitter"><span
-                                                                                    class="trx_addons_icon-twitter"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://facebook.com/AxiomThemes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_facebook"><span
-                                                                                    class="trx_addons_icon-facebook"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://www.instagram.com/axiom_themes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_instagram"><span
-                                                                                    class="trx_addons_icon-instagram"></span></a></span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="trx_addons_hover_mask"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="trx_addons_column-1_2">
-                                                        <div class="sc_team_item">
-                                                            <div
-                                                                class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-                                                                <a href="http://getinsured.live/index.php/team/elliot-odonell/"
-                                                                    aria-hidden="true"><img width="370" height="370"
-                                                                        src="http://getinsured.live/wp-content/uploads/2016/11/background-370x370.jpg"
-                                                                        class="attachment-trx_addons-thumb-avatar size-trx_addons-thumb-avatar wp-post-image"
-                                                                        alt="Naginder Gill" loading="lazy"
-                                                                        srcset="http://getinsured.live/wp-content/uploads/2016/11/background-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/11/background-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/11/background-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/11/background-90x90.jpg 90w"
-                                                                        sizes="(max-width: 370px) 100vw, 370px" /></a>
-                                                                <div class="trx_addons_hover_content">
-                                                                    <div
-                                                                        class="sc_team_item_subtitle trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/elliot-odonell/">Health
-                                                                            insurance agent</a></div>
-                                                                    <h4
-                                                                        class="sc_team_item_title trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/elliot-odonell/">Naginder
-                                                                            Gill</a></h4>
-                                                                    <div
-                                                                        class="sc_team_item_socials trx_addons_hover_info">
-                                                                        <span class="social_item"><a
-                                                                                href="https://twitter.com/"
-                                                                                target="_blank"
-                                                                                class="social_icons social_twitter"><span
-                                                                                    class="trx_addons_icon-twitter"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://facebook.com/"
-                                                                                target="_blank"
-                                                                                class="social_icons social_facebook"><span
-                                                                                    class="trx_addons_icon-facebook"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://www.instagram.com/"
-                                                                                target="_blank"
-                                                                                class="social_icons social_instagram"><span
-                                                                                    class="trx_addons_icon-instagram"></span></a></span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="trx_addons_hover_mask"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="trx_addons_column-1_2">
-                                                        <div class="sc_team_item">
-                                                            <div
-                                                                class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-                                                                <a href="http://getinsured.live/index.php/team/austin-cruz/"
-                                                                    aria-hidden="true"><img width="370" height="370"
-                                                                        src="http://getinsured.live/wp-content/uploads/2016/05/image-11-370x370.jpg"
-                                                                        class="attachment-trx_addons-thumb-avatar size-trx_addons-thumb-avatar wp-post-image"
-                                                                        alt="Parveen Bhardwaj" loading="lazy"
-                                                                        srcset="http://getinsured.live/wp-content/uploads/2016/05/image-11-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/05/image-11-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/05/image-11-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/05/image-11-90x90.jpg 90w"
-                                                                        sizes="(max-width: 370px) 100vw, 370px" /></a>
-                                                                <div class="trx_addons_hover_content">
-                                                                    <div
-                                                                        class="sc_team_item_subtitle trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/austin-cruz/">Life
-                                                                            insurance agent</a></div>
-                                                                    <h4
-                                                                        class="sc_team_item_title trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/austin-cruz/">Parveen
-                                                                            Bhardwaj</a></h4>
-                                                                    <div
-                                                                        class="sc_team_item_socials trx_addons_hover_info">
-                                                                        <span class="social_item"><a
-                                                                                href="https://twitter.com/axiom_themes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_twitter"><span
-                                                                                    class="trx_addons_icon-twitter"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://facebook.com/AxiomThemes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_facebook"><span
-                                                                                    class="trx_addons_icon-facebook"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://www.instagram.com/axiom_themes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_instagram"><span
-                                                                                    class="trx_addons_icon-instagram"></span></a></span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="trx_addons_hover_mask"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="trx_addons_column-1_2">
-                                                        <div class="sc_team_item">
-                                                            <div
-                                                                class="post_featured sc_team_item_thumb trx_addons_hover trx_addons_hover_style_info">
-                                                                <a href="http://getinsured.live/index.php/team/parvinder-chahal/"
-                                                                    aria-hidden="true"><img width="370" height="370"
-                                                                        src="http://getinsured.live/wp-content/uploads/2016/11/background-370x370.jpg"
-                                                                        class="attachment-trx_addons-thumb-avatar size-trx_addons-thumb-avatar wp-post-image"
-                                                                        alt="Parvinder Chahal" loading="lazy"
-                                                                        srcset="http://getinsured.live/wp-content/uploads/2016/11/background-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/11/background-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/11/background-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/11/background-90x90.jpg 90w"
-                                                                        sizes="(max-width: 370px) 100vw, 370px" /></a>
-                                                                <div class="trx_addons_hover_content">
-                                                                    <div
-                                                                        class="sc_team_item_subtitle trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/parvinder-chahal/">Auto
-                                                                            insurance agent</a></div>
-                                                                    <h4
-                                                                        class="sc_team_item_title trx_addons_hover_title">
-                                                                        <a
-                                                                            href="http://getinsured.live/index.php/team/parvinder-chahal/">Parvinder
-                                                                            Chahal</a></h4>
-                                                                    <div
-                                                                        class="sc_team_item_socials trx_addons_hover_info">
-                                                                        <span class="social_item"><a
-                                                                                href="https://twitter.com/axiom_themes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_twitter"><span
-                                                                                    class="trx_addons_icon-twitter"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://facebook.com/AxiomThemes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_facebook"><span
-                                                                                    class="trx_addons_icon-facebook"></span></a></span><span
-                                                                            class="social_item"><a
-                                                                                href="https://www.instagram.com/axiom_themes"
-                                                                                target="_blank"
-                                                                                class="social_icons social_instagram"><span
-                                                                                    class="trx_addons_icon-instagram"></span></a></span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="trx_addons_hover_mask"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div><!-- /.sc_team -->
-                                        </div>
-                                    </div>
-                                </div>
-                                <div
-                                    class="wpb_column vc_column_container vc_col-sm-1 vc_hidden-lg vc_hidden-md vc_hidden-xs sc_layouts_column_icons_position_left">
-                                    <div class="vc_column-inner">
-                                        <div class="wpb_wrapper"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="vc_empty_space" style="height: 6.5714em"><span
-                                    class="vc_empty_space_inner"></span></div>
-                        </div>
-                    </div>
-                </div>
-                <div
-                    class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-xs-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
                             <div id="sc_content_1692173718" class="sc_content sc_content_default">
                                 <h6
                                     class="sc_item_subtitle sc_content_subtitle sc_align_default sc_item_title_style_default">
                                     About us!</h6>
                                 <h2 class="sc_item_title sc_content_title sc_align_default sc_item_title_style_default">
-                                    Perfect Team</h2>
+                                <?php echo lcfs_super_visa_data('perfect_team')['heading'] ?></h2>
                                 <div class="sc_content_container">
                                     <div class="wpb_text_column wpb_content_element ">
                                         <div class="wpb_wrapper">
-                                            <p>Nunc posuere ornare massa quis convallis. Nunc at pharetra metus, sed
-                                                feugiat lorem. Sed fringilla, lacus et placerat scelerisque, ipsum urna
-                                                tincidunt erat, eget vulputate neque magna quis neque. Etiam dictum
-                                                varius nunc et fringilla. Maecenas venenatis posuere magna, ut placerat
-                                                velit laoreet vitae.<br />
-                                                Mauris convallis velit diam, eu pulvinar felis faucibus id. Nam vel ex
-                                                at orci volutpat placerat. Integer rutrum risus id ipsum.</p>
-
+                                            <p><?php echo lcfs_super_visa_data('perfect_team')['contant'] ?></p>
                                         </div>
                                     </div>
                                     <div class="vc_empty_space" style="height: 2.7143em"><span

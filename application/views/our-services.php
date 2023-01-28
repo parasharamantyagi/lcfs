@@ -45,13 +45,13 @@
                                     <div class="trx_addons_column-1_5">
                                         <div
                                             class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                            <a href="http://getinsured.live/index.php/services/resp-plans/"
+                                            <a href="#"
                                                 id="sc_services_150068072_icon-house"
                                                 class="sc_services_item_icon icon-house"></a>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h6 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/resp-plans/">RESP
+                                                            href="#">RESP
                                                             Plans</a></h6>
                                                 </div>
                                             </div>
@@ -60,13 +60,13 @@
                                     <div class="trx_addons_column-1_5">
                                         <div
                                             class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                            <a href="http://getinsured.live/index.php/services/travel-insurance/"
+                                            <a href="#"
                                                 id="sc_services_150068072_icon-departures"
                                                 class="sc_services_item_icon icon-departures"></a>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h6 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/travel-insurance/">Travel
+                                                            href="#">Travel
                                                             Insurance</a></h6>
                                                 </div>
                                             </div>
@@ -75,13 +75,13 @@
                                     <div class="trx_addons_column-1_5">
                                         <div
                                             class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                            <a href="http://getinsured.live/index.php/services/life-insurance/"
+                                            <a href="#"
                                                 id="sc_services_150068072_icon-umbrella"
                                                 class="sc_services_item_icon icon-umbrella"></a>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h6 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/life-insurance/">Life
+                                                            href="#">Life
                                                             Insurance</a></h6>
                                                 </div>
                                             </div>
@@ -90,13 +90,13 @@
                                     <div class="trx_addons_column-1_5">
                                         <div
                                             class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                            <a href="http://getinsured.live/index.php/services/super-visa-insurance/"
+                                            <a href="#"
                                                 id="sc_services_150068072_icon-transport"
                                                 class="sc_services_item_icon icon-transport"></a>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h6 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/super-visa-insurance/">Super
+                                                            href="#">Super
                                                             Visa Insurance</a></h6>
                                                 </div>
                                             </div>
@@ -105,13 +105,13 @@
                                     <div class="trx_addons_column-1_5">
                                         <div
                                             class="sc_services_item without_content with_icon sc_services_item_featured_top">
-                                            <a href="http://getinsured.live/index.php/services/disability-insurance/"
+                                            <a href="#"
                                                 id="sc_services_150068072_icon-baggage"
                                                 class="sc_services_item_icon icon-baggage"></a>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h6 class="sc_services_item_title"><a
-                                                            href="http://getinsured.live/index.php/services/disability-insurance/">Disability
+                                                            href="#">Disability
                                                             Insurance</a></h6>
                                                 </div>
                                             </div>
@@ -281,7 +281,6 @@
                                                         src="http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-90x90.jpg"
                                                         class="attachment-insugroup-thumb-tiny size-insugroup-thumb-tiny wp-post-image"
                                                         alt="Samantha" loading="lazy"
-                                                        srcset="http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-90x90.jpg 90w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-315x315.jpg 315w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-300x300.jpg 300w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-2.jpg 500w"
                                                         sizes="(max-width: 90px) 100vw, 90px" /></div>
                                                 <div class="sc_testimonials_item_author_data">
                                                     <h4 class="sc_testimonials_item_author_title">Samantha</h4>
@@ -306,7 +305,6 @@
                                                         src="http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-90x90.jpg"
                                                         class="attachment-insugroup-thumb-tiny size-insugroup-thumb-tiny wp-post-image"
                                                         alt="John Doe" loading="lazy"
-                                                        srcset="http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-90x90.jpg 90w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-315x315.jpg 315w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-300x300.jpg 300w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3.jpg 500w"
                                                         sizes="(max-width: 90px) 100vw, 90px" /></div>
                                                 <div class="sc_testimonials_item_author_data">
                                                     <h4 class="sc_testimonials_item_author_title">John Doe</h4>
