@@ -1,7 +1,7 @@
 {
     "insurance_quote": {
-        "heading": "Super Visa Insurance for Parents & Grand Parents.",
-        "contant": "Super Visa Insurance is a requirement for the parents and the grandparents applying for super visa to visit their children and grand children in Canada."
+        "heading": "Insurance for Parents & Grand Parents.",
+        "contant": "Super Visa insurance is a type of medical insurance required for parents and grandparents of Canadian citizens or permanent residents who want to visit Canada for an extended period of time. The purpose of the insurance is to ensure that the visitors have adequate medical coverage during their stay in Canada."
     },
     "who_we_are": {
         "heading": "Who we are?",
@@ -10,7 +10,7 @@
     },
     "What_is_life_insurance": {
         "heading": "What is life insurance?",
-        "contant": "Life insurance is a contract between insured and policy owner to pay an agreed upon amount of money upon death or disability of the insured person."
+        "contant": "Life insurance is a contract that provides financial security for loved ones in the event of the policyholder's death. It can be used to replace lost income and cover expenses such as funeral costs and outstanding debts.."
     },
     "company_of_professionals": {
         "heading": "Company of Professionals",
@@ -18,24 +18,24 @@
     },
     "we_love_our_clients": {
         "heading": "We Love Our Clients",
-        "contant": "We are dedicated to providing exceptional customer service to our clients and always keeping their best interest in mind."
+        "contant": "We are dedicated to providing excellent service and support to our financial clients. We understand that financial institutions have unique needs when it comes to insurance coverage, and we work closely with them to design customized solutions that provide the protection they require."
     },
     "perfect_team": {
         "heading": "Perfect Team",
-        "contant": "We are a team of financial advisors each specializing in their specific areas. Our team have access to some of the best insurance providers for life insurance, disability insurance, critical illness insurance, super visa insurance for parents and grand parents, RESP (Registered Education Savings Plans), RRSPs, TFSAs and segregated funds as investment products."
+        "contant": "We are the perfect team for all your financial needs. Our team members have extensive experience and knowledge in the financial services industry, and we are committed to providing the highest level of service and support to our clients."
     },
     "best_insurance_for_everyone": {
-        "heading": "Best insurance for everyone",
-        "contant": "Parvinder Chahal and in their company Experior Financial Group, they have some of the top Canadian insurance and financial services companies who stand behind their promise to deliver quality and timely products and services. The advisors are well trained in their areas, enthusiastic and dedicated to providing exceptional financial services. It is so great to work with specialists who is truly interested in their client’s needs, goals and preferences. Thank you!"
+        "heading": "Great insurance service",
+        "contant": "Great job on completing the budget analysis ahead of schedule. Your attention to detail and ability to identify cost savings is impressive. I appreciate your willingness to take on additional responsibilities in the finance department. Your hard work and dedication is making a real impact on our team's success. Thank you!"
     },
     "take_care_of_your_family": {
-        "heading": "Take care of your family. We offer professional assistance only!",
-        "contant": "Contact us for more information about our services.",
-        "mobile_no": "587-438-4400"
+        "heading": "Take care of you & your family. We offer professional assistance only!",
+        "contant": "Contact us for more information",
+        "mobile_no": "+1 587-707-0076"
     },
     "request_a_free_consultation": {
-        "heading": "Request a Free Consultation",
+        "heading": "Free Consultation",
         "contant": "Whatever your insurance coverage needs are, we're here to help life go right. Get a quote or ",
-        "link": "talk to an agent"
+        "link": "talk to an agent directly"
     }
 }

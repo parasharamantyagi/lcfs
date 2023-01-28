@@ -11,28 +11,28 @@
                             <div class="contacts_logo"><img src="<?php echo base_url("public/images/logo1.png"); ?>"
                                     alt="" width="686" height="204"></div>
                             <div class="contacts_description">
-                                <p>PARVINDER CHAHAL:<br />
-                                    Financial advisor in Calgary for Life Insurance, Travel Insurance and
-                                    Super Visa Insurance.</p>
+                                <p><?php echo lcfs_info_data('author_name'); ?>:<br />
+                                    <?php echo lcfs_info_data('addresss'); ?></p>
                             </div>
                             <div class="contacts_info">
-                                <div class="contacts_left"><span class="contacts_address">7 Taralake Mews
-                                        NE, Calgary AB T3J 0H9</span></div>
+                                <div class="contacts_left"><span class="contacts_address"><?php echo lcfs_info_data('company_name'); ?></span></div>
                                 <div class="contacts_right"><span class="contacts_phone">Phone: <a
-                                            href="tel:587-438-4400">587-438-4400</a></span><span
+                                            href="tel:<?php echo lcfs_info_data('contact_At_1'); ?>"><?php echo lcfs_info_data('contact_At_1'); ?></a>,
+                                            <a
+                                            href="tel:<?php echo lcfs_info_data('contact_At_2'); ?>"><?php echo lcfs_info_data('contact_At_2'); ?></a>
+                                        </span><span
                                         class="contacts_email">Email: <a
-                                            href="mailto:pkfinancing@gmail.com">pkfinancing@gmail.com</a></span>
+                                            href="mailto:<?php echo lcfs_info_data('author_email'); ?>"><?php echo lcfs_info_data('author_email'); ?></a></span>
                                 </div>
                             </div>
-                            <div class="contacts_socials socials_wrap"><span class="social_item"><a
-                                        href="https://twitter.com/" target="_blank"
-                                        class="social_icons social_twitter"><span
+                            <div class="contacts_socials socials_wrap"><span class="social_item"><a href="#"
+                                        target="_blank" class="social_icons social_twitter"><span
                                             class="trx_addons_icon-twitter"></span></a></span><span
-                                    class="social_item"><a href="https://facebook.com" target="_blank"
-                                        class="social_icons social_facebook"><span
+                                    class="social_item"><a href="<?php echo lcfs_info_data('facebook'); ?>"
+                                        target="_blank" class="social_icons social_facebook"><span
                                             class="trx_addons_icon-facebook"></span></a></span><span
-                                    class="social_item"><a href="https://www.instagram.com/" target="_blank"
-                                        class="social_icons social_instagram"><span
+                                    class="social_item"><a href="<?php echo lcfs_info_data('instagram'); ?>"
+                                        target="_blank" class="social_icons social_instagram"><span
                                             class="trx_addons_icon-instagram"></span></a></span></div>
                         </div><!-- /.contacts_wrap -->
                     </aside>
@@ -643,11 +643,9 @@ var mejsL10n = {
     }
 };
 </script>
-<script type='text/javascript'
-    src='<?php echo base_url("public/app/js1/mediaelement-and-player.min.js"); ?>'
+<script type='text/javascript' src='<?php echo base_url("public/app/js1/mediaelement-and-player.min.js"); ?>'
     id='mediaelement-core-js'></script>
-<script type='text/javascript'
-    src='<?php echo base_url("public/app/js1/mediaelement-migrate.min.js"); ?>'
+<script type='text/javascript' src='<?php echo base_url("public/app/js1/mediaelement-migrate.min.js"); ?>'
     id='mediaelement-migrate-js'></script>
 <script type='text/javascript' id='mediaelement-js-extra'>
 /* <![CDATA[ */
@@ -695,7 +693,8 @@ var _wpmejsSettings = {
 }
 
 .vc_custom_1485950629455 {
-    background-image: url(<?php echo base_url("public/images/bg-quote.jpg"); ?>) !important;
+    background-image: url(<?php echo base_url("public/images/bg-quote.jpg");
+    ?>) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
