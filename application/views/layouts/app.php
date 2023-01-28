@@ -2,27 +2,24 @@
 <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#" class="no-js scheme_default">
 
 <head>
-    <title>Home - Parvinder Chahal</title>
+    <title><?php echo lcfs_info_data('author'); ?></title>
 
     <!-- All in One SEO 4.2.3.1 -->
-    <meta name="description"
-        content="ServicesSuper Visa InsuranceTravel InsuranceLife InsuranceRESP, RRSP &amp; TFSASuper Visa Insurance Get an Insurance Quote!Super Visa insurance Super Visa Insurance for Parents &amp; Grand Parents. Super Visa Insurance is a requirement for the parents and the grandparents applying for super visa to visit their children and grand children in Canada. Learn MoreTravel Insurance Get an" />
+    <meta name="description" content="<?php echo lcfs_info_data('company_name'); ?>" />
     <meta name="robots" content="max-image-preview:large" />
     <link rel="canonical" href="<?php echo my_base_url('') ?>" />
     <meta name="generator" content="All in One SEO (AIOSEO) 4.2.3.1 " />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:site_name" content="Parvinder Chahal - Experior Financial Group" />
+    <meta property="og:site_name" content="<?php echo lcfs_info_data('company_name'); ?>" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Home - Parvinder Chahal" />
-    <meta property="og:description"
-        content="ServicesSuper Visa InsuranceTravel InsuranceLife InsuranceRESP, RRSP &amp; TFSASuper Visa Insurance Get an Insurance Quote!Super Visa insurance Super Visa Insurance for Parents &amp; Grand Parents. Super Visa Insurance is a requirement for the parents and the grandparents applying for super visa to visit their children and grand children in Canada. Learn MoreTravel Insurance Get an" />
+    <meta property="og:title" content="<?php echo lcfs_info_data('author'); ?>" />
+    <meta property="og:description" content="<?php echo lcfs_info_data('company_name'); ?>" />
     <meta property="og:url" content="<?php echo my_base_url('') ?>" />
     <meta property="article:published_time" content="2016-10-31T13:38:39+00:00" />
     <meta property="article:modified_time" content="2022-08-30T20:18:10+00:00" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Home - Parvinder Chahal" />
-    <meta name="twitter:description"
-        content="ServicesSuper Visa InsuranceTravel InsuranceLife InsuranceRESP, RRSP &amp; TFSASuper Visa Insurance Get an Insurance Quote!Super Visa insurance Super Visa Insurance for Parents &amp; Grand Parents. Super Visa Insurance is a requirement for the parents and the grandparents applying for super visa to visit their children and grand children in Canada. Learn MoreTravel Insurance Get an" />
+    <meta name="twitter:title" content="<?php echo lcfs_info_data('author'); ?>" />
+    <meta name="twitter:description" content="<?php echo lcfs_info_data('company_name'); ?>" />
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
