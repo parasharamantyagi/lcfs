@@ -526,7 +526,7 @@
                             <div class="wpb_wrapper">
                                 <div class="sc_layouts_item"><a href="#" id="sc_layouts_logo_1664157454"
                                         class="sc_layouts_logo sc_layouts_logo_default"><img class="logo_image"
-                                            src="<?php echo base_url('public/images/lcfg.jpeg'); ?>" alt=""
+                                            src="<?php echo base_url('public/images/lcfg.jpg'); ?>" alt=""
                                             style="max-height: 150px; border-radius: 2%;"></a><!-- /.sc_layouts_logo -->
                                 </div>
                                 <div class="sc_layouts_item">
