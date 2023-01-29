@@ -8,23 +8,22 @@
 
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_1505709812">
-                <div class="mask"></div><a href="http://getinsured.live/index.php/2022/12/07/why-choose-ourservices/"
-                    aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
+                <div class="mask"></div><a href="<?php echo my_base_url('why-choose-ourservices') ?>" aria-hidden="true"
+                    class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
-                        <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/12/07/why-choose-ourservices/"
+                        <h3 class="post_title entry-title"><a href="<?php echo my_base_url('why-choose-ourservices') ?>"
                                 rel="bookmark">Why Choose Our Services</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/12/07/why-choose-ourservices/">December
+                                    href="<?php echo my_base_url('why-choose-ourservices') ?>">December
                                     7, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/consulting/"
+                                in <a href="<?php echo my_base_url('category/consulting') ?>"
                                     rel="category tag">Consulting</a>, <a
-                                    href="http://getinsured.live/index.php/category/economy/"
-                                    rel="category tag">Economy</a> </span>
+                                    href="<?php echo my_base_url('category/economy') ?>" rel="category tag">Economy</a>
+                            </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
 
@@ -37,8 +36,7 @@
                                 sit, aspernatur aut&hellip;</p>
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
-													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/12/07/why-choose-ourservices/">Read
+													sc_button_size_small sc_button_icon_left" href="<?php echo my_base_url('why-choose-ourservices') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -53,23 +51,22 @@
 
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_948883486">
-                <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/09/28/insugroup-select-service-program/"
+                <div class="mask"></div><a href="<?php echo my_base_url('insugroup-select-service-program') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/09/28/insugroup-select-service-program/"
-                                rel="bookmark">Our Select Service Program</a></h3>
+                                href="<?php echo my_base_url('insugroup-select-service-program') ?>" rel="bookmark">Our
+                                Select Service Program</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/09/28/insugroup-select-service-program/">September
+                                    href="<?php echo my_base_url('insugroup-select-service-program') ?>">September
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/consulting/"
+                                in <a href="<?php echo my_base_url('category/consulting') ?>"
                                     rel="category tag">Consulting</a>, <a
-                                    href="http://getinsured.live/index.php/category/funding-trends/"
+                                    href="<?php echo my_base_url('category/funding-trends') ?>"
                                     rel="category tag">Funding Trends</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -83,7 +80,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/09/28/insugroup-select-service-program/">Read
+                                href="<?php echo my_base_url('insugroup-select-service-program') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -98,23 +95,22 @@
 
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_1635205561">
-                <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/09/28/college-savings-plans-can-be-confusing/"
+                <div class="mask"></div><a href="<?php echo my_base_url('college-savings-plans-can-be-confusing') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/09/28/college-savings-plans-can-be-confusing/"
+                                href="<?php echo my_base_url('college-savings-plans-can-be-confusing') ?>"
                                 rel="bookmark">College Savings Plans Can Be Confusing</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/09/28/college-savings-plans-can-be-confusing/">September
+                                    href="<?php echo my_base_url('college-savings-plans-can-be-confusing') ?>">September
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/consulting/"
+                                in <a href="<?php echo my_base_url('category/consulting') ?>"
                                     rel="category tag">Consulting</a>, <a
-                                    href="http://getinsured.live/index.php/category/funding-trends/"
+                                    href="<?php echo my_base_url('category/funding-trends') ?>"
                                     rel="category tag">Funding Trends</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -129,7 +125,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/09/28/college-savings-plans-can-be-confusing/">Read
+                                href="<?php echo my_base_url('college-savings-plans-can-be-confusing') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -145,20 +141,20 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_654695586">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/09/28/plan-for-the-future-and-live-your-life-now/"
+                    href="<?php echo my_base_url('plan-for-the-future-and-live-your-life-now') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/09/28/plan-for-the-future-and-live-your-life-now/"
+                                href="<?php echo my_base_url('plan-for-the-future-and-live-your-life-now') ?>"
                                 rel="bookmark">Plan for the Future and Live Your Life Now</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/09/28/plan-for-the-future-and-live-your-life-now/">September
+                                    href="<?php echo my_base_url('plan-for-the-future-and-live-your-life-now') ?>">September
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/business/"
+                                in <a href="<?php echo my_base_url('category/business') ?>"
                                     rel="category tag">Business</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -173,7 +169,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/09/28/plan-for-the-future-and-live-your-life-now/">Read
+                                href="<?php echo my_base_url('plan-for-the-future-and-live-your-life-now') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -199,18 +195,18 @@
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/09/28/live-good-on-the-go/"
+                                href="<?php echo my_base_url('live-good-on-the-go') ?>"
                                 rel="bookmark">Live Good On The Go</a></h3>
                         <div class="post_meta">
                             <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/09/28/live-good-on-the-go/">September
+                                    href="<?php echo my_base_url('live-good-on-the-go') ?>">September
                                     28, 2022</a></span>
-                            <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/business/"
+                                    <span class="post_meta_item post_categories">
+                                in <a href="<?php echo my_base_url('category/business') ?>"
                                     rel="category tag">Business</a>, <a
-                                    href="http://getinsured.live/index.php/category/consulting/"
+                                    href="<?php echo my_base_url('category/consulting') ?>"
                                     rel="category tag">Consulting</a>, <a
-                                    href="http://getinsured.live/index.php/category/funding-trends/"
+                                    href="<?php echo my_base_url('category/funding-trends') ?>"
                                     rel="category tag">Funding Trends</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -225,7 +221,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/09/28/live-good-on-the-go/">Read
+                                href="<?php echo my_base_url('live-good-on-the-go') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -241,20 +237,20 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_743551702">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/09/28/a-better-way-to-protect-your-belongings/"
+                    href="<?php echo my_base_url('a-better-way-to-protect-your-belongings') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/09/28/a-better-way-to-protect-your-belongings/"
+                                href="<?php echo my_base_url('a-better-way-to-protect-your-belongings') ?>"
                                 rel="bookmark">A Better Way To Protect Your Belongings</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/09/28/a-better-way-to-protect-your-belongings/">September
+                                    href="<?php echo my_base_url('a-better-way-to-protect-your-belongings') ?>">September
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/money/"
+                                in <a href="<?php echo my_base_url('category/money') ?>"
                                     rel="category tag">Money</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -269,7 +265,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/09/28/a-better-way-to-protect-your-belongings/">Read
+                                href="<?php echo my_base_url('a-better-way-to-protect-your-belongings') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -285,20 +281,20 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_1956563351">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/08/28/enjoy-coverage-that-fits-your-life/"
+                    href="<?php echo my_base_url('enjoy-coverage-that-fits-your-life') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/08/28/enjoy-coverage-that-fits-your-life/"
+                                href="<?php echo my_base_url('enjoy-coverage-that-fits-your-life') ?>"
                                 rel="bookmark">Enjoy Coverage That Fits Your Life</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/08/28/enjoy-coverage-that-fits-your-life/">August
+                                    href="<?php echo my_base_url('enjoy-coverage-that-fits-your-life') ?>">August
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/funding-trends/"
+                                in <a href="<?php echo my_base_url('category/funding-trends') ?>"
                                     rel="category tag">Funding Trends</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -313,7 +309,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/08/28/enjoy-coverage-that-fits-your-life/">Read
+                                href="<?php echo my_base_url('enjoy-coverage-that-fits-your-life') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -329,22 +325,22 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_1528018290">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/08/28/wedding-jewellery-for-every-bride/"
+                    href="<?php echo my_base_url('wedding-jewellery-for-every-bride') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/08/28/wedding-jewellery-for-every-bride/"
+                                href="<?php echo my_base_url('wedding-jewellery-for-every-bride') ?>"
                                 rel="bookmark">Wedding Jewellery For Every Bride</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/08/28/wedding-jewellery-for-every-bride/">August
+                                    href="<?php echo my_base_url('wedding-jewellery-for-every-bride') ?>">August
                                     28, 2022</a></span>
-                            <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/business/"
+                                    <span class="post_meta_item post_categories">
+                                in <a href="<?php echo my_base_url('category/business') ?>"
                                     rel="category tag">Business</a>, <a
-                                    href="http://getinsured.live/index.php/category/consulting/"
+                                    href="<?php echo my_base_url('category/consulting') ?>"
                                     rel="category tag">Consulting</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -359,7 +355,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/08/28/wedding-jewellery-for-every-bride/">Read
+                                href="<?php echo my_base_url('wedding-jewellery-for-every-bride') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -379,8 +375,8 @@
                     <audio class="wp-audio-shortcode" id="audio-90-1" preload="none" style="width: 100%;"
                         controls="controls">
                         <source type="audio/mpeg"
-                            src="http://getinsured.live/wp-content/uploads/2016/11/sample-melody.mp3?_=1" /><a
-                            href="http://getinsured.live/wp-content/uploads/2016/11/sample-melody.mp3">http://getinsured.live/wp-content/uploads/2016/11/sample-melody.mp3</a>
+                            src="#" /><a
+                            href="#">#</a>
                     </audio>
                 </div>
             </div>
@@ -388,13 +384,13 @@
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/08/28/build-a-brighter-financial-future/"
+                                href="<?php echo my_base_url('build-a-brighter-financial-future') ?>"
                                 rel="bookmark">Build A Brighter Financial Future</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/08/28/build-a-brighter-financial-future/">August
+                                    href="<?php echo my_base_url('build-a-brighter-financial-future') ?>">August
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/economy/"
+                                in <a href="<?php echo my_base_url('category/economy') ?>"
                                     rel="category tag">Economy</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -409,7 +405,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/08/28/build-a-brighter-financial-future/">Read
+                                href="<?php echo my_base_url('build-a-brighter-financial-future') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -425,20 +421,20 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_268790010">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/07/28/financial-tips-for-new-parents-to-cut-costs/"
+                    href="<?php echo my_base_url('financial-tips-for-new-parents-to-cut-costs') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/07/28/financial-tips-for-new-parents-to-cut-costs/"
+                                href="<?php echo my_base_url('financial-tips-for-new-parents-to-cut-costs') ?>"
                                 rel="bookmark">Financial Tips for New Parents to Cut Costs</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/07/28/financial-tips-for-new-parents-to-cut-costs/">July
+                                    href="<?php echo my_base_url('financial-tips-for-new-parents-to-cut-costs') ?>">July
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/funding-trends/"
+                                in <a href="<?php echo my_base_url('category/funding-trends') ?>"
                                     rel="category tag">Funding Trends</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -453,7 +449,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/07/28/financial-tips-for-new-parents-to-cut-costs/">Read
+                                href="<?php echo my_base_url('financial-tips-for-new-parents-to-cut-costs') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -469,22 +465,22 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_1853402544">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/07/28/do-you-need-a-home-warranty/" aria-hidden="true"
+                    href="<?php echo my_base_url('do-you-need-a-home-warranty') ?>" aria-hidden="true"
                     class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/07/28/do-you-need-a-home-warranty/"
+                                href="<?php echo my_base_url('do-you-need-a-home-warranty') ?>"
                                 rel="bookmark">Do You Need A Home Warranty?</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/07/28/do-you-need-a-home-warranty/">July
+                                    href="<?php echo my_base_url('do-you-need-a-home-warranty') ?>">July
                                     28, 2022</a></span>
                             <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/consulting/"
+                                in <a href="<?php echo my_base_url('category/consulting') ?>"
                                     rel="category tag">Consulting</a>, <a
-                                    href="http://getinsured.live/index.php/category/money/" rel="category tag">Money</a>
+                                    href="<?php echo my_base_url('category/money') ?>" rel="category tag">Money</a>
                             </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
@@ -499,7 +495,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/07/28/do-you-need-a-home-warranty/">Read
+                                href="<?php echo my_base_url('do-you-need-a-home-warranty') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
@@ -515,23 +511,23 @@
             <div class="post_featured with_thumb hover_dots post_featured_bg
 									insugroup_inline_1464867720">
                 <div class="mask"></div><a
-                    href="http://getinsured.live/index.php/2022/07/23/how-to-keep-life-insurance-costs-down/"
+                    href="<?php echo my_base_url('how-to-keep-life-insurance-costs-down') ?>"
                     aria-hidden="true" class="icons"><span></span><span></span><span></span></a>
             </div>
             <div class="post_inner">
                 <div class="post_inner_content">
                     <div class="post_header entry-header">
                         <h3 class="post_title entry-title"><a
-                                href="http://getinsured.live/index.php/2022/07/23/how-to-keep-life-insurance-costs-down/"
+                                href="<?php echo my_base_url('how-to-keep-life-insurance-costs-down') ?>"
                                 rel="bookmark">How to Keep Life Insurance Costs Down</a></h3>
                         <div class="post_meta"> <span class="post_meta_item post_date"><a
-                                    href="http://getinsured.live/index.php/2022/07/23/how-to-keep-life-insurance-costs-down/">July
+                                    href="<?php echo my_base_url('how-to-keep-life-insurance-costs-down') ?>">July
                                     23, 2022</a></span>
-                            <span class="post_meta_item post_categories">
-                                in <a href="http://getinsured.live/index.php/category/business/"
+                                    <span class="post_meta_item post_categories">
+                                in <a href="<?php echo my_base_url('category/business') ?>"
                                     rel="category tag">Business</a>, <a
-                                    href="http://getinsured.live/index.php/category/money/" rel="category tag">Money</a>
-                            </span>
+                                    href="<?php echo my_base_url('category/money') ?>"
+                                    rel="category tag">Consulting</a> </span>
                         </div><!-- .post_meta -->
                     </div><!-- .entry-header -->
 
@@ -545,7 +541,7 @@
                         </div>
                         <div class="sc_item_button sc_button_wrap more-link-wrapper"><a class="sc_button sc_button_default color_preset_light
 													sc_button_size_small sc_button_icon_left"
-                                href="http://getinsured.live/index.php/2022/07/23/how-to-keep-life-insurance-costs-down/">Read
+                                href="<?php echo my_base_url('how-to-keep-life-insurance-costs-down') ?>">Read
                                 more</a></div>
                     </div><!-- .entry-content -->
 
