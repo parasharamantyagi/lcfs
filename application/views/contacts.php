@@ -14,16 +14,7 @@
                 </div>
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
-            <div class="vc_row wpb_row vc_row-fluid">
-                <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                            <div class="vc_empty_space" style="height: 6.2857em"><span
-                                    class="vc_empty_space_inner"></span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
             <div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-flex">
                 <div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
                     <div class="vc_column-inner">
@@ -66,7 +57,7 @@
                             <div class="wpb_single_image wpb_content_element vc_align_right">
 
                                 <figure class="wpb_wrapper vc_figure">
-                                    <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="567"
+                                    <div class="vc_single_image-wrapper vc_box_border_grey"><img width="567"
                                             height="403"
                                             src="<?php echo base_url("public/service-images/promo-2.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy"
@@ -81,20 +72,6 @@
             </div>
             <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
                 class="vc_row wpb_row vc_row-fluid vc_custom_1483632892238 vc_row-has-fill vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex scheme_light">
-                <div
-                    class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-xs-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                            <div id="sc_googlemap_464856232_wrap" class="sc_googlemap_wrap">
-                                <div id="sc_googlemap_464856232" class="sc_googlemap sc_googlemap_default"
-                                    style="width:100%;height:776px;" data-zoom="12" data-style="default"><iframe
-                                        src="https://maps.google.com/maps?t=m&output=embed&iwloc=near&z=12&q=6486+Sycamore+Lane+Fort+Lee@41.031786,-73.629356"
-                                        scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
-                                        aria-label=""></iframe></div>
-                            </div><!-- /.sc_googlemap_wrap -->
-                        </div>
-                    </div>
-                </div>
                 <div
                     class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-xs-12 sc_layouts_column_icons_position_left scheme_default">
                     <div class="vc_column-inner vc_custom_1484645490851" style="margin: 5%;">

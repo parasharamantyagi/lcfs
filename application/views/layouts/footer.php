@@ -165,10 +165,10 @@
         <div class="footer_copyright_inner">
             <div class="content_wrap">
                 <div class="copyright_text">
-                    <p><a target="_blank" href="https://themeforest.net/user/axiomthemes/portfolio">AxiomThemes</a> ©
+                    <p><a target="_blank" href="https://appcodie.com">AxiomThemes</a> ©
                         2023
-                        All Rights Reserved. <a href="http://axiomthemes.com/terms-of-service/">Terms of
-                            Use</a> and <a href="http://axiomthemes.com/privacy-policy/">Privacy Policy</a>
+                        All Rights Reserved. <a href="https://appcodie.com">Terms of
+                            Use</a> and <a href="https://appcodie.com">Privacy Policy</a>
                     </p>
                 </div>
             </div>

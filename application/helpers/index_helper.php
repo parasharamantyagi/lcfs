@@ -50,6 +50,16 @@ if ( ! function_exists('lcfs_contacts_data'))
     }
 }
 
+if ( ! function_exists('lcfs_our_services_data'))
+{
+    function lcfs_our_services_data($var = '')
+    {
+        $path = base_url('public/json/our_service.json');
+        $json = json_decode(file_get_contents($path), true);
+        return $json[$var];
+    }
+}
+
 if ( ! function_exists('my_base_url'))
 {
     function my_base_url($var = '')

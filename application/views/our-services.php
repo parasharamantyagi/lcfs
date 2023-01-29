@@ -36,10 +36,8 @@
                             <div class="sc_services sc_services_list" data-slides-per-view="5"
                                 data-slides-min-width="200">
                                 <h2 class="sc_item_title sc_services_title sc_align_center sc_item_title_style_default">
-                                    Our Main Services</h2>
-                                <div class="sc_item_descr sc_services_descr sc_align_center">Economic services provided
-                                    by the finance industry, which encompasses a broad range of businesses that manage
-                                    money, including credit unions.</div>
+                                <?php echo lcfs_our_services_data('our_main_services')['heading'] ?></h2>
+                                <div class="sc_item_descr sc_services_descr sc_align_center"><?php echo lcfs_our_services_data('our_main_services')['contant'] ?></div>
                                 <div
                                     class="sc_services_columns sc_item_columns sc_item_columns_5 trx_addons_columns_wrap">
                                     <div class="trx_addons_column-1_5">
@@ -138,13 +136,8 @@
                         <div class="wpb_wrapper">
                             <div class="vc_empty_space" style="height: 10em"><span class="vc_empty_space_inner"></span>
                             </div>
-                            <div class="sc_item_button sc_button_wrap sc_align_center"><a href="#video"
-                                    id="sc_button_643790078" class="sc_button sc_button_round sc_button_icon_left"><span
-                                        class="sc_button_icon"><span class="icon-play"></span></span></a>
-                                <!-- /.sc_button -->
-                            </div><!-- /.sc_item_button -->
-                            <div class="vc_empty_space" style="height: 10em"><span class="vc_empty_space_inner"></span>
-                            </div>
+                           
+                            
                         </div>
                     </div>
                 </div>
@@ -159,17 +152,12 @@
                                     class="sc_item_subtitle sc_content_subtitle sc_align_default sc_item_title_style_default">
                                     A Few Words About Us</h6>
                                 <h2 class="sc_item_title sc_content_title sc_align_default sc_item_title_style_default">
-                                    About Our Services</h2>
+                                <?php echo lcfs_our_services_data('about_our_services')['heading'] ?></h2>
                                 <div class="sc_content_container">
                                     <div class="wpb_text_column wpb_content_element ">
                                         <div class="wpb_wrapper">
-                                            <p><strong>Nunc posuere ornare massa quis convallis. Nunc at pharetra metus,
-                                                    sed feugiat lorem.</strong><br />
-                                                Sed fringilla, lacus et placerat scelerisque, ipsum urna tincidunt erat,
-                                                eget vulputate neque magna quis neque. Etiam dictum varius nunc et
-                                                fringilla. Maecenas venenatis posuere magna.<br />
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p><strong><?php echo lcfs_our_services_data('about_our_services')['title'] ?></strong><br />
+                                            <?php echo lcfs_our_services_data('about_our_services')['contant'] ?> </p>
 
                                         </div>
                                     </div>
@@ -241,22 +229,14 @@
                                     <div class="swiper-slide">
                                         <div class="sc_testimonials_item">
                                             <div class="sc_testimonials_item_content">
-                                                <p>Parvinder Chahal and in their company Experior Financial Group, they
-                                                    have some of the top Canadian insurance and financial services
-                                                    companies who stand behind their promise to deliver quality and
-                                                    timely products and services. The advisors are well trained in their
-                                                    areas, enthusiastic and dedicated to providing exceptional financial
-                                                    services. It is so great to work with specialists who is truly
-                                                    interested in their client’s needs, goals and preferences. Thank
-                                                    you!</p>
+                                                <p><?php echo lcfs_our_services_data('testimonials')['contant'] ?></p>
                                             </div>
                                             <div class="sc_testimonials_item_author">
                                                 <div class="sc_testimonials_item_author_avatar"><img width="90"
                                                         height="90"
-                                                        src="http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-90x90.jpg"
+                                                        src="<?php echo base_url("public/our-services/testimonial-3-1-90x90.jpg"); ?>"
                                                         class="attachment-insugroup-thumb-tiny size-insugroup-thumb-tiny wp-post-image"
                                                         alt="Brandy" loading="lazy"
-                                                        srcset="http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-90x90.jpg 90w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-100x100.jpg 100w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-315x315.jpg 315w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-150x150.jpg 150w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-300x300.jpg 300w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1-370x370.jpg 370w, http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-1.jpg 500w"
                                                         sizes="(max-width: 90px) 100vw, 90px" /></div>
                                                 <div class="sc_testimonials_item_author_data">
                                                     <h4 class="sc_testimonials_item_author_title">Brandy</h4>
@@ -269,16 +249,12 @@
                                     <div class="swiper-slide">
                                         <div class="sc_testimonials_item">
                                             <div class="sc_testimonials_item_content">
-                                                <p>I want to express how grateful I am for the work Parvinder has done
-                                                    for my family over the past years. I am absolutely pleased and
-                                                    satisfied with your company&#8217;s services. They work through the
-                                                    process to identify your needs, goals and strategy, and put your
-                                                    plan into action!</p>
+                                                <p><?php echo lcfs_our_services_data('testimonials')['contant2'] ?></p>
                                             </div>
                                             <div class="sc_testimonials_item_author">
                                                 <div class="sc_testimonials_item_author_avatar"><img width="90"
                                                         height="90"
-                                                        src="http://getinsured.live/wp-content/uploads/2016/11/testimonial-2-90x90.jpg"
+                                                        src="<?php echo base_url("public/our-services/testimonial-2-90x90.jpg"); ?>"
                                                         class="attachment-insugroup-thumb-tiny size-insugroup-thumb-tiny wp-post-image"
                                                         alt="Samantha" loading="lazy"
                                                         sizes="(max-width: 90px) 100vw, 90px" /></div>
@@ -293,16 +269,12 @@
                                     <div class="swiper-slide">
                                         <div class="sc_testimonials_item">
                                             <div class="sc_testimonials_item_content">
-                                                <p>I am so pleased and satisfied with Parvinder Chahal and her insurance
-                                                    company’s service. It is so great to work with an adviser who is
-                                                    truly interested in their client’s needs, goals and preferences. I
-                                                    am really impressed with their commitment. Thank you so much and
-                                                    good luck with your clients!</p>
+                                                <p><?php echo lcfs_our_services_data('testimonials')['contant3'] ?></p>
                                             </div>
                                             <div class="sc_testimonials_item_author">
                                                 <div class="sc_testimonials_item_author_avatar"><img width="90"
                                                         height="90"
-                                                        src="http://getinsured.live/wp-content/uploads/2016/11/testimonial-3-90x90.jpg"
+                                                        src="<?php echo base_url("public/our-services/testimonial-3-90x90.jpg"); ?>"
                                                         class="attachment-insugroup-thumb-tiny size-insugroup-thumb-tiny wp-post-image"
                                                         alt="John Doe" loading="lazy"
                                                         sizes="(max-width: 90px) 100vw, 90px" /></div>
@@ -356,7 +328,7 @@
                                 <figure class="wpb_wrapper vc_figure">
                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="163"
                                             height="98"
-                                            src="http://getinsured.live/wp-content/uploads/2016/10/client-1.jpg"
+                                            src="<?php echo base_url("public/our-services/client-1.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                 </figure>
                             </div>
@@ -372,7 +344,7 @@
                                 <figure class="wpb_wrapper vc_figure">
                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="171"
                                             height="98"
-                                            src="http://getinsured.live/wp-content/uploads/2016/10/client-2.jpg"
+                                            src="<?php echo base_url("public/our-services/client-2.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                 </figure>
                             </div>
@@ -388,7 +360,7 @@
                                 <figure class="wpb_wrapper vc_figure">
                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="160"
                                             height="98"
-                                            src="http://getinsured.live/wp-content/uploads/2016/10/client-3.jpg"
+                                            src="<?php echo base_url("public/our-services/client-3.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                 </figure>
                             </div>
@@ -404,7 +376,7 @@
                                 <figure class="wpb_wrapper vc_figure">
                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="160"
                                             height="98"
-                                            src="http://getinsured.live/wp-content/uploads/2016/10/client-4.jpg"
+                                            src="<?php echo base_url("public/our-services/client-4.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                 </figure>
                             </div>
@@ -420,7 +392,7 @@
                                 <figure class="wpb_wrapper vc_figure">
                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="155"
                                             height="98"
-                                            src="http://getinsured.live/wp-content/uploads/2016/10/client-5.jpg"
+                                            src="<?php echo base_url("public/our-services/client-5.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                 </figure>
                             </div>
@@ -436,7 +408,7 @@
                                 <figure class="wpb_wrapper vc_figure">
                                     <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="160"
                                             height="98"
-                                            src="http://getinsured.live/wp-content/uploads/2016/10/client-4.jpg"
+                                            src="<?php echo base_url("public/our-services/client-4.jpg"); ?>"
                                             class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                 </figure>
                             </div>

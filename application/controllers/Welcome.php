@@ -85,13 +85,6 @@ class Welcome extends CI_Controller {
       $this->load->view('layouts/footer');
     }
 
-    public function shopGet()
-    {
-      $this->load->view('layouts/app');
-      $this->load->view('shop');
-      $this->load->view('layouts/footer');
-    }
-
     public function classicBlogColumn()
     {
         if($this->uri->segment(1) === 'classic-blog-1-column'){

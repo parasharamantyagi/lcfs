@@ -62,7 +62,6 @@ $route['masonry-gallery'] = 'Welcome/masonryGallery';
 $route['even-gallery'] = 'Welcome/evenGallery';
 
 $route['super-visa-insurance'] = 'Welcome/superVisaInsurance';
-$route['shop'] = 'Welcome/shopGet';
 
 $route['classic-blog-1-column'] = 'Welcome/classicBlogColumn';
 $route['classic-blog-2-columns'] = 'Welcome/classicBlogColumn';

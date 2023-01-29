@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://52.199.102.35/lcfs';
+$config['base_url'] = 'https://lcfinancials.ca';
 
 /*
 |--------------------------------------------------------------------------
