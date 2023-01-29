@@ -78,12 +78,12 @@ class Welcome extends CI_Controller {
       // $this->load->view('layouts/footer');
     }
 
-    public function superVisaInsurance()
-    {
-      $this->load->view('layouts/app');
-      $this->load->view('super-visa-insurance');
-      $this->load->view('layouts/footer');
-    }
+    // public function superVisaInsurance()
+    // {
+    //   $this->load->view('layouts/app');
+    //   $this->load->view('super-visa-insurance');
+    //   $this->load->view('layouts/footer');
+    // }
 
     public function classicBlogColumn()
     {
