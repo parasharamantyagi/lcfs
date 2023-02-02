@@ -4,12 +4,7 @@
             <div class="vc_row-full-width vc_clearfix"></div>
             <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
                 class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper"><a id="sc_anchor_services" class="sc_anchor sc_anchor_visible"
-                                title="Services" data-icon="" data-url="">Services</a></div>
-                    </div>
-                </div>
+               
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
             <div class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_slideInUp slideInUp">
@@ -381,12 +376,7 @@
             </div>
             <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
                 class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper"><a id="sc_anchor_who-we-are" class="sc_anchor sc_anchor_visible"
-                                title="Who We Are" data-icon="" data-url="">Who We Are</a></div>
-                    </div>
-                </div>
+               
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
             <div data-vc-full-width="true" data-vc-full-width-init="false"
@@ -500,15 +490,6 @@
                 </div>
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
-            <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
-                class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper"><a id="sc_anchor_our-team" class="sc_anchor sc_anchor_visible"
-                                title="Our Team" data-icon="" data-url="">Our Team</a></div>
-                    </div>
-                </div>
-            </div>
             <div class="vc_row-full-width vc_clearfix"></div>
             <div class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_slideInUp slideInUp">
                 <div
@@ -809,15 +790,6 @@
                 </div>
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
-            <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
-                class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper"><a id="sc_anchor_blog" class="sc_anchor sc_anchor_visible" title="Blog"
-                                data-icon="" data-url="">Blog</a></div>
-                    </div>
-                </div>
-            </div>
             <div class="vc_row-full-width vc_clearfix"></div>
             <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
                 class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_slideInUp slideInUp vc_row-no-padding">
