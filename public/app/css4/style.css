@@ -1419,7 +1419,7 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
 .outer_widgets_inner {
     position: relative;
     padding: 101px 65px 78px 35px;
-    background-color: #ff1414;
+    background-color: #000000;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;

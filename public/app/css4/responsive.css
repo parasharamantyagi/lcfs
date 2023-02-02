@@ -6,7 +6,7 @@
 @media (min-width: 1679px) and (max-width: 1900px) {
     [data-vc-full-width='true'] .vc_col-lg-3 .sc_action_item_default.sc_action_item .sc_action_item_inner{
         padding: 6em !important;
-		background-color: #ff1414;
+		background-color: #000000;
     }
     [data-vc-full-width='true'] .vc_col-lg-3 .sc_action_item.sc_action_fixed_height:before,
     [data-vc-full-width='true'] .vc_col-lg-3 .sc_action_item.trx_addons_stretch_height:before {

@@ -819,7 +819,7 @@
                             </style>
                             <style type="text/css">
                             .eg-item-skin-1-container {
-                                background: #ff1414
+                                background: #000000
                             }
                             </style>
                             <style type="text/css">

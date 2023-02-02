@@ -175,15 +175,15 @@
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Life Insurance
                                                 <span class="vc_label_units">95%</span></small><span class="vc_bar "
                                                 data-percentage-value="95" data-value="95"
-                                                style="background-color:#ff1414;"></span></div>
+                                                style="background-color:#000000;"></span></div>
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Auto Insurance
                                                 <span class="vc_label_units">100%</span></small><span class="vc_bar "
                                                 data-percentage-value="100" data-value="100"
-                                                style="background-color:#ff1414;"></span></div>
+                                                style="background-color:#000000;"></span></div>
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Travel Insurance
                                                 <span class="vc_label_units">98%</span></small><span class="vc_bar "
                                                 data-percentage-value="98" data-value="98"
-                                                style="background-color:#ff1414;"></span></div>
+                                                style="background-color:#000000;"></span></div>
                                     </div>
                                 </div>
                             </div><!-- /.sc_content -->

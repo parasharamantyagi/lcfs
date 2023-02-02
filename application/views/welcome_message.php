@@ -527,15 +527,15 @@
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Life Insurance
                                                 <span class="vc_label_units">95%</span></small><span class="vc_bar "
                                                 data-percentage-value="95" data-value="95"
-                                                style="background-color:#ff1414;"></span></div>
+                                                style="background-color:#000000;"></span></div>
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Super Visa
                                                 Insurance <span class="vc_label_units">100%</span></small><span
                                                 class="vc_bar " data-percentage-value="100" data-value="100"
-                                                style="background-color:#ff1414;"></span></div>
+                                                style="background-color:#000000;"></span></div>
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Travel Insurance
                                                 <span class="vc_label_units">98%</span></small><span class="vc_bar "
                                                 data-percentage-value="98" data-value="98"
-                                                style="background-color:#ff1414;"></span></div>
+                                                style="background-color:#000000;"></span></div>
                                     </div>
                                 </div>
                             </div><!-- /.sc_content -->
@@ -572,7 +572,7 @@
                                 data-slides-min-width=&quot;250&quot;>
                                 <div class="sc_action_content sc_item_content">
                                     <div class="sc_action_item sc_action_item_default with_image with_bg_color sc_action_fixed_height sc_action_item_mc"
-                                        style="background-color:#ff1414;height:660px;overflow:hidden;">
+                                        style="background-color:#000000;height:660px;overflow:hidden;">
                                         <div class="sc_action_item_mask"></div>
                                         <div class="sc_action_item_inner">
                                             <h3 class="sc_action_item_title"><span>we are always
