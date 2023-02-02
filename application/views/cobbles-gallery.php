@@ -739,7 +739,7 @@
                             .eg-item-skin-1-element-13 {
                                 font-size: 12px;
                                 line-height: 20px;
-                                color: #95d343;
+                                color: #2c3459;
                                 font-weight: 500;
                                 display: block;
                                 text-align: center;
@@ -777,7 +777,7 @@
                                 font-weight: 600 !important;
                                 padding: 9px 21px 9px 21px !important;
                                 border-radius: 100px 100px 100px 100px !important;
-                                background: #95d343 !important;
+                                background: #2c3459 !important;
                                 z-index: 2 !important;
                                 display: block;
                                 font-family: "Poppins" !important;
@@ -786,7 +786,7 @@
                                 border-right-width: 3px !important;
                                 border-bottom-width: 3px !important;
                                 border-left-width: 3px !important;
-                                border-color: #95d343 !important;
+                                border-color: #2c3459 !important;
                                 border-style: solid !important
                             }
                             </style>
@@ -804,7 +804,7 @@
                                 border-right-width: 3px !important;
                                 border-bottom-width: 3px !important;
                                 border-left-width: 3px !important;
-                                border-color: #95d343 !important;
+                                border-color: #2c3459 !important;
                                 border-style: solid !important
                             }
                             </style>
@@ -819,7 +819,7 @@
                             </style>
                             <style type="text/css">
                             .eg-item-skin-1-container {
-                                background: #2c3459
+                                background: #ff1414
                             }
                             </style>
                             <style type="text/css">
@@ -1195,7 +1195,7 @@
                         <div class="wpb_wrapper">
                             <div class="vc_empty_space" style="height:
 														2em"><span class="vc_empty_space_inner"></span></div>
-                            <h4 style="font-size: 1.7143em;color: #95d343;line-height:
+                            <h4 style="font-size: 1.7143em;color: #2c3459;line-height:
 														1.1667em;text-align: left" class="vc_custom_heading
 														vc_custom_1483615495700">Newsletter</h4>
                             <div class="vc_empty_space" style="height: 1.6429em"><span

@@ -527,15 +527,15 @@
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Life Insurance
                                                 <span class="vc_label_units">95%</span></small><span class="vc_bar "
                                                 data-percentage-value="95" data-value="95"
-                                                style="background-color:#2c3459;"></span></div>
+                                                style="background-color:#ff1414;"></span></div>
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Super Visa
                                                 Insurance <span class="vc_label_units">100%</span></small><span
                                                 class="vc_bar " data-percentage-value="100" data-value="100"
-                                                style="background-color:#2c3459;"></span></div>
+                                                style="background-color:#ff1414;"></span></div>
                                         <div class="vc_general vc_single_bar"><small class="vc_label">Travel Insurance
                                                 <span class="vc_label_units">98%</span></small><span class="vc_bar "
                                                 data-percentage-value="98" data-value="98"
-                                                style="background-color:#2c3459;"></span></div>
+                                                style="background-color:#ff1414;"></span></div>
                                     </div>
                                 </div>
                             </div><!-- /.sc_content -->
@@ -572,7 +572,7 @@
                                 data-slides-min-width=&quot;250&quot;>
                                 <div class="sc_action_content sc_item_content">
                                     <div class="sc_action_item sc_action_item_default with_image with_bg_color sc_action_fixed_height sc_action_item_mc"
-                                        style="background-color:#afe075;height:660px;overflow:hidden;">
+                                        style="background-color:#ff1414;height:660px;overflow:hidden;">
                                         <div class="sc_action_item_mask"></div>
                                         <div class="sc_action_item_inner">
                                             <h3 class="sc_action_item_title"><span>we are always
@@ -593,7 +593,7 @@
                         <div class="wpb_wrapper">
                             <div class="vc_empty_space" style="height: 8em"><span class="vc_empty_space_inner"></span>
                             </div>
-                            <h2 style="font-size: 120px;color: #95d343;line-height: 0px;text-align: center"
+                            <h2 style="font-size: 120px;color: #2c3459;line-height: 0px;text-align: center"
                                 class="vc_custom_heading vc_custom_1483629136987">”</h2>
                             <h2 style="font-size: 2.8em;line-height: 1.2em;text-align: center"
                                 class="vc_custom_heading vc_custom_1484663161201">
@@ -926,10 +926,7 @@
                         <div class="wpb_wrapper">
                             <div class="wpb_gmaps_widget wpb_content_element">
                                 <div class="wpb_wrapper">
-                                    <div class="wpb_map_wraper"><iframe
-                                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.2497579317273!2d-113.92651028424416!3d51.12230097957362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537163a8ecc85b7d%3A0x5416ac898f1ac522!2s7%20Taralake%20Mews%20NE%2C%20Calgary%2C%20AB%20T3J%200H9!5e0!3m2!1sen!2sca!4v1661888742762!5m2!1sen!2sca"
-                                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <div class="wpb_map_wraper"><div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=University of O211 Coral Keys Dr Ne Calgary Alberta Canada T3J3K7xford&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://pdflist.com/" alt="pdf download">Pdf download</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:916px;height:400px;}.gmap_iframe {height:400px!important;}</style></div>
                                     </div>
                                 </div>
                             </div>
@@ -942,7 +939,7 @@
                         <div class="wpb_wrapper">
                             <div class="vc_empty_space" style="height: 2em"><span class="vc_empty_space_inner"></span>
                             </div>
-                            <h4 style="font-size: 1.7143em;color: #95d343;line-height: 1.1667em;text-align: left"
+                            <h4 style="font-size: 1.7143em;color: #2c3459;line-height: 1.1667em;text-align: left"
                                 class="vc_custom_heading vc_custom_1483615495700">Newsletter</h4>
                             <div class="vc_empty_space" style="height: 1.6429em"><span
                                     class="vc_empty_space_inner"></span></div>

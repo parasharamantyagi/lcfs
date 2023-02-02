@@ -189,11 +189,10 @@
                         587-438-4400</p>
                 </div>
                 <div class="contacts_info">
-                    <div class="contacts_left"><span class="contacts_address">7 Taralake Mews NE, Calgary AB T3J
-                            0H9</span></div>
+                    <div class="contacts_left"><span class="contacts_address"><?php echo lcfs_info_data('addresss'); ?></span></div>
                     <div class="contacts_right"><span class="contacts_phone">Phone: <a
-                                href="tel:587-438-4400">587-438-4400</a></span><span class="contacts_email">Email: <a
-                                href="mailto:pkcdhr@gmail.com">pkcdhr@gmail.com</a></span></div>
+                                href="tel:<?php echo lcfs_info_data('contact_At_1'); ?>"><?php echo lcfs_info_data('contact_At_1'); ?></a></span><span class="contacts_email">Email: <a
+                                href="mailto:<?php echo lcfs_info_data('author_email'); ?>"><?php echo lcfs_info_data('author_email'); ?></a></span></div>
                 </div>
             </div><!-- /.contacts_wrap -->
         </aside>

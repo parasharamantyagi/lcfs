@@ -355,7 +355,7 @@
     }
 
     .vc_custom_1484650557059 {
-        background-color: #afe075 !important;
+        background-color: #ff1414 !important;
     }
 
     .vc_custom_1484663152310 {
@@ -364,7 +364,7 @@
     }
 
     .vc_custom_1483630808013 {
-        background-color: #afe075 !important;
+        background-color: #ff1414 !important;
     }
 
     .vc_custom_1483629136987 {

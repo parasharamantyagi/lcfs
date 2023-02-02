@@ -1419,7 +1419,7 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
 .outer_widgets_inner {
     position: relative;
     padding: 101px 65px 78px 35px;
-    background-color: #2c3459;
+    background-color: #ff1414;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1449,7 +1449,7 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
     font-family: 'Fontello';
 }
 .hide_sidebar:hover {
-    color: #95d343;
+    color: #2c3459;
 }
 .outer_widgets_wrap .widget_contacts .contacts_logo + .contacts_info,
 .outer_widgets_wrap .widget_contacts .contacts_map_top .contacts_map + .contacts_info,
@@ -4985,7 +4985,7 @@ div.pp_pic_holder {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    border: solid 12px #95d343 !important;
+    border: solid 12px #2c3459 !important;
 }
 .esg-media-cover-wrapper .eg-insugroup-element-10,
 .esg-media-cover-wrapper .eg-insugroup-element-13,
