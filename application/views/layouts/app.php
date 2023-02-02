@@ -323,7 +323,7 @@
     }
 
     .vc_custom_1485348756422 {
-        background-color: #232a47 !important;
+        background-color: #000000 !important;
     }
 
     .vc_custom_1483957060100 {

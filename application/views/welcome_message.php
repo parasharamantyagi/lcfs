@@ -939,7 +939,7 @@
                         <div class="wpb_wrapper">
                             <div class="vc_empty_space" style="height: 2em"><span class="vc_empty_space_inner"></span>
                             </div>
-                            <h4 style="font-size: 1.7143em;color: #000000;line-height: 1.1667em;text-align: left"
+                            <h4 style="font-size: 1.7143em;color: #fffff;line-height: 1.1667em;text-align: left"
                                 class="vc_custom_heading vc_custom_1483615495700">Newsletter</h4>
                             <div class="vc_empty_space" style="height: 1.6429em"><span
                                     class="vc_empty_space_inner"></span></div>
