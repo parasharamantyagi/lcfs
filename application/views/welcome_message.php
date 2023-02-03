@@ -24,9 +24,8 @@
                                                 data-vc-content=".vc_tta-panel-body">
                                                 <div class="vc_tta-panel-heading">
                                                     <h4 class="vc_tta-panel-title"><a
-                                                            href="#1483543616839-6c8fb000-1887" data-vc-accordion
-                                                            data-vc-container=".vc_tta-container"><i
-                                                                class="vc_tta-icon vc-material vc-material-home"></i><span
+                                                            href="<?php echo my_base_url('') ?>" data-vc-accordion
+                                                            data-vc-container=".vc_tta-container"><i class="icon-home"></i><span
                                                                 class="vc_tta-title-text">Super Visa
                                                                 Insurance</span></a></h4>
                                                 </div>
@@ -102,7 +101,7 @@
                                                     <h4 class="vc_tta-panel-title"><a
                                                             href="#1483719118240-9740d190-ccaf" data-vc-accordion
                                                             data-vc-container=".vc_tta-container"><i
-                                                                class="vc_tta-icon fa fa-plane"></i><span
+                                                                class="icon-arrow-right"></i><span
                                                                 class="vc_tta-title-text">Travel
                                                                 Insurance</span></a></h4>
                                                 </div>
@@ -293,7 +292,7 @@
                                                     <h4 class="vc_tta-panel-title"><a
                                                             href="#1483719109522-14b5e175-186c" data-vc-accordion
                                                             data-vc-container=".vc_tta-container"><i
-                                                                class="vc_tta-icon vc-material vc-material-directions_car"></i><span
+                                                                class="icon-forward"></i><span
                                                                 class="vc_tta-title-text">RESP, RRSP
                                                                 &amp; TFSA</span></a></h4>
                                                 </div>
