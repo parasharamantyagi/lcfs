@@ -962,6 +962,11 @@
                                                     width: 745px;
                                                 }
                                             }
+                                            @media (max-width:1370px) {
+                                                .gmap_canvas {
+                                                    width: 685px;
+                                                }
+                                            }
                                             @media (max-width:1300px) {
                                                 .gmap_canvas {
                                                     width: 647px;
