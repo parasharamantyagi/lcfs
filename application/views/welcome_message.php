@@ -25,7 +25,8 @@
                                                 <div class="vc_tta-panel-heading">
                                                     <h4 class="vc_tta-panel-title"><a
                                                             href="<?php echo my_base_url('') ?>" data-vc-accordion
-                                                            data-vc-container=".vc_tta-container"><i class="icon-home"></i><span
+                                                            data-vc-container=".vc_tta-container"><i
+                                                                class="icon-home"></i><span
                                                                 class="vc_tta-title-text">Super Visa
                                                                 Insurance</span></a></h4>
                                                 </div>
@@ -949,6 +950,27 @@
 
                                             .gmap_iframe {
                                                 height: 400px !important;
+                                            }
+
+                                            @media (max-width:1665px) {
+                                                .gmap_canvas {
+                                                    width: 832px;
+                                                }
+                                            }
+                                            @media (max-width:1465px) {
+                                                .gmap_canvas {
+                                                    width: 745px;
+                                                }
+                                            }
+                                            @media (max-width:1300px) {
+                                                .gmap_canvas {
+                                                    width: 647px;
+                                                }
+                                            }
+                                            @media (max-width:1050px) {
+                                                .gmap_canvas {
+                                                    width: 500px;
+                                                }
                                             }
                                             </style>
                                         </div>

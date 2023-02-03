@@ -8,7 +8,7 @@
                 <div class="columns_wrap">
                     <aside id="trx_addons_widget_contacts-3" class="column-1_3 widget widget_contacts">
                         <div class="contacts_wrap">
-                            <div class="contacts_logo"><img src="<?php echo base_url("public/images/lcfg1.png"); ?>"
+                            <div class="contacts_logo"><img src="<?php echo base_url("public/images/lcfg2.png"); ?>"
                                     alt="" width="686" height="204"></div>
                             <div class="contacts_description">
                                 <p><?php echo lcfs_info_data('author_full_name'); ?>:<br />
