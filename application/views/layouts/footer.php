@@ -11,7 +11,7 @@
                             <div class="contacts_logo"><img src="<?php echo base_url("public/images/lcfg1.png"); ?>"
                                     alt="" width="686" height="204"></div>
                             <div class="contacts_description">
-                                <p><?php echo lcfs_info_data('author_name'); ?>:<br />
+                                <p><?php echo lcfs_info_data('author_full_name'); ?>:<br />
                                     <?php echo lcfs_info_data('addresss'); ?></p>
                             </div>
                             <div class="contacts_info">
@@ -184,9 +184,9 @@
             <h5 class="widget_title">About us</h5>
             <div class="contacts_wrap">
                 <div class="contacts_description">
-                    <p>Parvinder Chahal<br />
+                    <p><?php echo lcfs_info_data('author_full_name'); ?><br />
                         Financial Advisor<br />
-                        587-438-4400</p>
+                        <?php echo lcfs_info_data('contact_At_1'); ?></p>
                 </div>
                 <div class="contacts_info">
                     <div class="contacts_left"><span class="contacts_address"><?php echo lcfs_info_data('addresss'); ?></span></div>

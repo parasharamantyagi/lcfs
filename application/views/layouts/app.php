@@ -28,10 +28,10 @@
     <link rel="pingback" href="<?php echo my_base_url('') ?>">
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Parvinder Chahal &raquo; Feed"
+    <link rel="alternate" type="application/rss+xml" title="<?php echo lcfs_info_data('author_full_name'); ?>"
         href="<?php echo my_base_url('') ?>" />
-    <link rel="alternate" type="application/rss+xml" title="Parvinder Chahal &raquo; Comments Feed"
-        href="<?php echo my_base_url('') ?>" />
+    <link rel="alternate" type="application/rss+xml"
+        title="<?php echo lcfs_info_data('author_full_name'); ?> Comments Feed" href="<?php echo my_base_url('') ?>" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
     <!-- No UA code set -->
@@ -524,7 +524,7 @@
                                 <div class="sc_layouts_item"><a href="#" id="sc_layouts_logo_1664157454"
                                         class="sc_layouts_logo sc_layouts_logo_default"><img class="logo_image"
                                             src="<?php echo base_url('public/images/lcfg.png'); ?>" alt=""
-                                            style="max-height: 150px; border-radius: 2%;"></a><!-- /.sc_layouts_logo -->
+                                            style="border-radius: 2%;"></a><!-- /.sc_layouts_logo -->
                                 </div>
                                 <div class="sc_layouts_item">
                                     <div id="sc_layouts_menu_118402126"
@@ -566,8 +566,10 @@
             <div class="menu_mobile_overlay"></div>
             <div class="menu_mobile menu_mobile_narrow scheme_dark">
                 <div class="menu_mobile_inner">
-                    <a class="menu_mobile_close icon-cancel"></a><a class="sc_layouts_logo" href="#"><span
-                            class="logo_text">Parvinder Chahal</span><span class="logo_slogan">Experior Financial
+                    <a class="menu_mobile_close icon-cancel"></a><a class="sc_layouts_logo"
+                        href="<?php echo my_base_url('') ?>"><span
+                            class="logo_text"><?php echo lcfs_info_data('author_full_name'); ?></span><span
+                            class="logo_slogan">Experior Financial
                             Group</span></a>
                     <nav class="menu_mobile_nav_area">
                         <ul id="menu_mobile" class=" menu_mobile_nav">
