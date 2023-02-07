@@ -67,3 +67,13 @@ $route['classic-blog-3-columns'] = 'Welcome/classicBlogColumn';
 $route['chess-2-columns'] = 'Welcome/classicBlogColumn';
 $route['chess-4-columns'] = 'Welcome/classicBlogColumn';
 $route['chess-6-columns'] = 'Welcome/classicBlogColumn';
+
+
+$route['what-is-life-insurance'] = 'Service/whatIsLifeInsurance';
+$route['company-of-professionals'] = 'Service/companyOfProfessionals';
+$route['we-love-our-clients'] = 'Service/weLoveOurClients';
+
+$route['resp'] = 'Investment/Resp';
+$route['rrsp'] = 'Investment/Rrsp';
+$route['tfsa'] = 'Investment/Tfsa';
+$route['loan-to-invest'] = 'Investment/loanToInvest';

@@ -404,21 +404,21 @@
                                                     class="attachment-insugroup-thumb-med size-insugroup-thumb-med wp-post-image"
                                                     alt="What is life insurance?" loading="lazy" />
                                                 <div class="mask"></div><a
-                                                    href="<?php echo my_base_url('services/what-is-life-insurance') ?>"
+                                                    href="<?php echo my_base_url('what-is-life-insurance') ?>"
                                                     aria-hidden="true"
                                                     class="icons"><span></span><span></span><span></span></a>
                                             </div>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="<?php echo my_base_url('services/what-is-life-insurance') ?>"><?php echo lcfs_data('What_is_life_insurance')['heading'] ?>
+                                                            href="<?php echo my_base_url('what-is-life-insurance') ?>"><?php echo lcfs_data('What_is_life_insurance')['heading'] ?>
                                                         </a></h4>
                                                 </div>
                                                 <div class="sc_services_item_content">
                                                     <p><?php echo lcfs_data('What_is_life_insurance')['contant'] ?></p>
                                                 </div>
                                                 <div class="sc_services_item_link sc_item_link"><a
-                                                        href="<?php echo my_base_url('services/what-is-life-insurance') ?>"
+                                                        href="<?php echo my_base_url('what-is-life-insurance') ?>"
                                                         class="sc_button_link">more </a></div>
                                             </div>
                                         </div>
@@ -433,14 +433,14 @@
                                                     alt="Company of Professionals" loading="lazy"
                                                     sizes="(max-width: 370px) 100vw, 370px" />
                                                 <div class="mask"></div><a
-                                                    href="<?php echo my_base_url('services/company-of-professionals') ?>"
+                                                    href="<?php echo my_base_url('company-of-professionals') ?>"
                                                     aria-hidden="true"
                                                     class="icons"><span></span><span></span><span></span></a>
                                             </div>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="<?php echo my_base_url('services/company-of-professionals') ?>"><?php echo lcfs_data('company_of_professionals')['heading'] ?></a>
+                                                            href="<?php echo my_base_url('company-of-professionals') ?>"><?php echo lcfs_data('company_of_professionals')['heading'] ?></a>
                                                     </h4>
                                                 </div>
                                                 <div class="sc_services_item_content">
@@ -448,7 +448,7 @@
                                                     </p>
                                                 </div>
                                                 <div class="sc_services_item_link sc_item_link"><a
-                                                        href="<?php echo my_base_url('services/company-of-professionals') ?>"
+                                                        href="<?php echo my_base_url('company-of-professionals') ?>"
                                                         class="sc_button_link">more </a></div>
                                             </div>
                                         </div>
@@ -462,21 +462,21 @@
                                                     class="attachment-insugroup-thumb-med size-insugroup-thumb-med wp-post-image"
                                                     alt="We Love Our Clients" loading="lazy" />
                                                 <div class="mask"></div><a
-                                                    href="<?php echo my_base_url('services/we-love-our-clients') ?>"
+                                                    href="<?php echo my_base_url('we-love-our-clients') ?>"
                                                     aria-hidden="true"
                                                     class="icons"><span></span><span></span><span></span></a>
                                             </div>
                                             <div class="sc_services_item_info">
                                                 <div class="sc_services_item_header">
                                                     <h4 class="sc_services_item_title"><a
-                                                            href="<?php echo my_base_url('services/we-love-our-clients') ?>"><?php echo lcfs_data('we_love_our_clients')['heading'] ?></a>
+                                                            href="<?php echo my_base_url('we-love-our-clients') ?>"><?php echo lcfs_data('we_love_our_clients')['heading'] ?></a>
                                                     </h4>
                                                 </div>
                                                 <div class="sc_services_item_content">
                                                     <p><?php echo lcfs_data('we_love_our_clients')['contant'] ?></p>
                                                 </div>
                                                 <div class="sc_services_item_link sc_item_link"><a
-                                                        href="<?php echo my_base_url('services/we-love-our-clients') ?>"
+                                                        href="<?php echo my_base_url('we-love-our-clients') ?>"
                                                         class="sc_button_link">more </a></div>
                                             </div>
                                         </div>

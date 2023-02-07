@@ -404,16 +404,22 @@
         margin-top: 0px !important;
         margin-bottom: 0px !important;
     }
-
+    </style>
+    <?php //if (in_array($this->uri->segment(1), array('cobbles-gallery','about-us','what-is-life-insurance','company-of-professionals','we-love-our-clients'))) { ?>
+    <?php if($this->uri->segment(1)){ ?>
+    <style>
     .content {
-        margin: 10%;
+        margin: 5%;
     }
-    </style><noscript>
+    </style>
+    <?php } ?>
+    <noscript>
         <style>
         .wpb_animate_when_almost_visible {
             opacity: 1;
         }
         </style>
+
     </noscript>
 </head>
 
@@ -521,7 +527,8 @@
                         class="wpb_column vc_column_container vc_col-sm-2 sc_layouts_column sc_layouts_column_align_left sc_layouts_column_icons_position_left">
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
-                                <div class="sc_layouts_item"><a href="#" id="sc_layouts_logo_1664157454"
+                                <div class="sc_layouts_item"><a href="<?php echo my_base_url('') ?>"
+                                        id="sc_layouts_logo_1664157454"
                                         class="sc_layouts_logo sc_layouts_logo_default"><img class="logo_image"
                                             src="<?php echo base_url('public/images/logi1.jpg'); ?>" alt=""
                                             style="border-radius: 2%;"></a><!-- /.sc_layouts_logo -->
@@ -529,7 +536,8 @@
                                 <div class="sc_layouts_item">
                                     <div id="sc_layouts_menu_118402126"
                                         class="sc_layouts_iconed_text sc_layouts_menu_mobile_button sc_layouts_menu_mobile_button_burger without_menu">
-                                        <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
+                                        <a class="sc_layouts_item_link sc_layouts_iconed_text_link"
+                                            href="<?php echo my_base_url('') ?>">
                                             <span
                                                 class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
                                         </a>

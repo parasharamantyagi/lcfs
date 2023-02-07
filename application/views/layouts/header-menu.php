@@ -11,42 +11,57 @@
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-951">
                             <a href="<?php echo my_base_url('') ?>"><span>Home</span></a>
                         </li>
-                        <!-- <li id="menu-item-33"
+                        <li id="menu-item-33"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33">
                             <a href="<?php echo my_base_url('our-services') ?>"><span>Insurance</span></a>
                             <ul class="sub-menu">
                                 <li id="menu-item-35"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35">
-                                    <a href="<?php echo my_base_url('super-visa-insurance') ?>"><span>Travel
-                                            &#038; Super Visa</span></a>
+                                    <a href="<?php echo my_base_url('super-visa-insurance') ?>"><span>Life insurance
+                                        </span></a>
                                 </li>
-                                <li id="menu-item-36"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36">
-                                    <a href="<?php echo my_base_url('life-insurance') ?>"><span>Life Insurance</span></a>
+                                <li id="menu-item-35"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35">
+                                    <a href="<?php echo my_base_url('super-visa-insurance') ?>"><span>Critical insurance
+                                        </span></a>
                                 </li>
-                                <li id="menu-item-38"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38">
-                                    <a href="<?php echo my_base_url('shop') ?>"><span>Critical
-                                            Illness</span></a>
+                                <li id="menu-item-35"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35">
+                                    <a href="<?php echo my_base_url('super-visa-insurance') ?>"><span>Disability insurance
+                                        </span></a>
+                                </li>
+                                <li id="menu-item-35"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35">
+                                    <a href="<?php echo my_base_url('super-visa-insurance') ?>"><span>Supervisa insurance
+                                        </span></a>
+                                </li>
+                                <li id="menu-item-35"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35">
+                                    <a href="<?php echo my_base_url('super-visa-insurance') ?>"><span>Visitor insurance
+                                        </span></a>
                                 </li>
                             </ul>
-                        </li> -->
+                        </li>
                         <li id="menu-item-536"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536">
                             <a><span>Investments</span></a>
                             <ul class="sub-menu">
                                 <li id="menu-item-457"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-457">
-                                    <a href="<?php echo my_base_url('cobbles-gallery') ?>"><span>RESP</span></a>
+                                    <a href="<?php echo my_base_url('resp') ?>"><span>RESP</span></a>
                                 </li>
-                                <!-- <li id="menu-item-455"
+                                <li id="menu-item-455"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455">
-                                    <a href="<?php echo my_base_url('masonry-gallery') ?>"><span>RRSP</span></a>
+                                    <a href="<?php echo my_base_url('rrsp') ?>"><span>RRSP</span></a>
                                 </li>
                                 <li id="menu-item-454"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454">
-                                    <a href="<?php echo my_base_url('even-gallery') ?>"><span>TFSA</span></a>
-                                </li> -->
+                                    <a href="<?php echo my_base_url('tfsa') ?>"><span>TFSA</span></a>
+                                </li>
+                                <li id="menu-item-454"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454">
+                                    <a href="<?php echo my_base_url('loan-to-invest') ?>"><span>Loan to invest</span></a>
+                                </li>
                             </ul>
                         </li>
                         <li id="menu-item-34"
