@@ -24,8 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-//$config['base_url'] = 'https://lcfinancials.ca12';
-$config['base_url'] = 'https://lcfinancials.ca';
+$config['base_url'] = 'http://localhost/aman-test/lcfs';
+// $config['base_url'] = 'https://lcfinancials.ca';
 
 /*
 |--------------------------------------------------------------------------
