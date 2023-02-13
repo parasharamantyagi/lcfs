@@ -21,9 +21,9 @@ class Investment extends CI_Controller {
 
 	public function Rrsp()
 	{
-		// $this->load->view('layouts/app');
+		$this->load->view('layouts/app-1');
 		$this->load->view('Investment/rrsp');
-		// $this->load->view('layouts/footer');
+		$this->load->view('layouts/footer');
 	}
 
 
@@ -38,6 +38,13 @@ class Investment extends CI_Controller {
 	{
 		$this->load->view('layouts/app');
 		$this->load->view('Investment/loan-to-invest');
+		$this->load->view('layouts/footer');
+	}
+
+	public function healthInsurance()
+	{
+		$this->load->view('layouts/app');
+		$this->load->view('Investment/health-insurance');
 		$this->load->view('layouts/footer');
 	}
 }

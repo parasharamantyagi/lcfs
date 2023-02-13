@@ -77,3 +77,6 @@ $route['resp'] = 'Investment/Resp';
 $route['rrsp'] = 'Investment/Rrsp';
 $route['tfsa'] = 'Investment/Tfsa';
 $route['loan-to-invest'] = 'Investment/loanToInvest';
+
+
+$route['health-insurance'] = 'Investment/healthInsurance';
