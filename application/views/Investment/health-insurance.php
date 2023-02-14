@@ -6,7 +6,7 @@
 <div class="page_content_wrap scheme_default">
 
     <div class="post_header entry-header">
-        <h2 class="post_title entry-title">Health Insurance</h2>
+        <h2 class="post_title entry-title"><?php echo $page_title; ?></h2>
     </div><!-- .post_header -->
 
     <div class="content_wrap">
@@ -21,18 +21,13 @@
 								format-standard has-post-thumbnail hentry category-our-projects
 								tag-finance tag-travel" itemscope itemtype="//schema.org/BlogPosting">
                 <div class="post_featured">
-                    <img width="1170" height="658" src="<?php echo base_url("public/images/image-3-1170x658.jpg"); ?>"
-                        class="attachment-insugroup-thumb-huge size-insugroup-thumb-huge
-										wp-post-image" alt="Health Insurance" loading="lazy" itemprop="url"
+                    <img width="1170" height="658" src="<?php echo $image; ?>" class="attachment-insugroup-thumb-huge size-insugroup-thumb-huge
+										wp-post-image" alt="<?php echo $page_title; ?>" loading="lazy" itemprop="url"
                         sizes="(max-width: 1170px) 100vw, 1170px" />
                     >
                 </div><!-- .post_featured -->
                 <div class="post_content entry-content" itemprop="articleBody">
-                    <p>Health insurance, a little different than the critical illness or
-                        life insurance, is <em>a contract between the insurance company and
-                            the policy holder or insured that requires an insurance company to
-                            pay some or all bills of a person&#8217;s healthcare costs while the
-                            insured or policy holder pays the premium to the insurance provider</em>.</p>
+                    <p><?php echo $contant; ?></p>
                     <div class="post_meta post_meta_single"><span class="post_meta_item
 											post_tags"><a href="<?php echo my_base_url('finance') ?>" rel="tag">Finance</a><a
                                 href="<?php echo my_base_url('tag/travel') ?>" rel="tag">Travel</a></span>

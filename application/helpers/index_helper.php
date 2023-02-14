@@ -60,10 +60,30 @@ if ( ! function_exists('lcfs_our_services_data'))
     }
 }
 
+if ( ! function_exists('lcfs_rrsp'))
+{
+    function lcfs_rrsp($var = '')
+    {
+        $path = base_url('public/json/rrsp.json');
+        $json = json_decode(file_get_contents($path), true);
+        return $json[$var];
+    }
+}
+
 if ( ! function_exists('my_base_url'))
 {
     function my_base_url($var = '')
     {
         return base_url('index.php/'.$var);
+    }   
+}
+
+if ( ! function_exists('pr'))
+{
+    function pr($var = '')
+    {
+        echo '<pre>';
+        print_r($var);
+        die;
     }   
 }

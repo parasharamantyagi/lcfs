@@ -80,3 +80,11 @@ $route['loan-to-invest'] = 'Investment/loanToInvest';
 
 
 $route['health-insurance'] = 'Investment/healthInsurance';
+$route['home-insurance'] = 'Investment/healthInsurance';
+$route['deposit-insurance'] = 'Investment/healthInsurance';
+$route['super-visa-medical-insurance'] = 'Investment/healthInsurance';
+$route['super-visa-insurance'] = 'Investment/healthInsurance';
+$route['life-insurance'] = 'Investment/healthInsurance';
+$route['travel-insurance'] = 'Investment/healthInsurance';
+$route['renters-insurance'] = 'Investment/healthInsurance';
+$route['pension-term-assurance'] = 'Investment/healthInsurance';

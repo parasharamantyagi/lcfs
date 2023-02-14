@@ -983,7 +983,7 @@
                                     row: 3,
                                     apiName: "essapi_2",
                                     loadMoreAjaxToken: "745b9b6176",
-                                    loadMoreAjaxUrl: "http://getinsured.live/wp-admin/admin-ajax.php",
+                                    loadMoreAjaxUrl: "<?php echo my_base_url('') ?>",
                                     loadMoreAjaxAction: "Essential_Grid_Front_request_ajax",
                                     ajaxContentTarget: "ess-grid-ajax-container-",
                                     ajaxScrollToOffset: "0",
