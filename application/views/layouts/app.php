@@ -413,6 +413,13 @@
     }
     </style>
     <?php } ?>
+    <?php if($this->uri->segment(1) === 'contacts'){ ?>
+        <style>
+        .content {
+            margin: 15%;
+        }
+        </style>
+    <?php } ?>
     <noscript>
         <style>
         .wpb_animate_when_almost_visible {

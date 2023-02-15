@@ -122,11 +122,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column vc_column_container vc_col-sm-1 sc_layouts_column_icons_position_left">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper"></div>
-                    </div>
-                </div>
             </div>
             <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
                 class="vc_row wpb_row vc_row-fluid vc_custom_1484694844129 vc_row-has-fill vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">

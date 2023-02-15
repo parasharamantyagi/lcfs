@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
-            
+
             <div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-flex">
                 <div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
                     <div class="vc_column-inner">
@@ -24,7 +24,7 @@
                                     class="sc_item_subtitle sc_title_subtitle sc_align_default sc_item_title_style_default">
                                     We Can Help You</h6>
                                 <h2 class="sc_item_title sc_title_title sc_align_default sc_item_title_style_default">
-                                <?php echo lcfs_contacts_data('have_a_questions')['heading'] ?></h2>
+                                    <?php echo lcfs_contacts_data('have_a_questions')['heading'] ?></h2>
                             </div><!-- /.sc_title -->
                             <div id="widget_contacts_1856416961"
                                 class="widget_area sc_widget_contacts vc_widget_contacts wpb_content_element">
@@ -34,7 +34,9 @@
                                             <p><?php echo lcfs_contacts_data('have_a_questions')['contant'] ?></p>
                                         </div>
                                         <div class="contacts_info">
-                                            <div class="contacts_left"><span class="contacts_address"><?php echo lcfs_contacts_data('have_a_questions')['contacts_address'] ?></span></div>
+                                            <div class="contacts_left"><span
+                                                    class="contacts_address"><?php echo lcfs_contacts_data('have_a_questions')['contacts_address'] ?></span>
+                                            </div>
                                             <div class="contacts_right"><span class="contacts_phone">Phone: <a
                                                         href="tel:800-123-4567"><?php echo lcfs_contacts_data('have_a_questions')['contacts_phone'] ?></a></span><span
                                                     class="contacts_email">Email: <a
